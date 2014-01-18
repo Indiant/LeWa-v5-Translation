@@ -81,7 +81,7 @@
   <string name="weather_search_city">Eredmények</string>
   <string name="weather_weather_waiting">Várjon az adatokra...</string>
   <string name="weather_weather_get_failed">Időjárási adatok lekérése sikertelen, ellenőrizze a hálózati kapcsolatot.</string>
-  <string name="weather_close">Close</string>
+  <string name="weather_close">Bezárás</string>
   <string name="mversion">2012.8</string>
   <string name="channel">lewa</string>
   <string name="shared_user_label">www.365rili.com</string>
