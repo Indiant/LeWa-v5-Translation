@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="desktop_transition_effect_entries">
+		<item>Szabvány</item>
+		<item>Túllövés</item>
+		<item>Nagyítás</item>
+		<item>Kicsinyítés</item>
+		<item>Fel pörög</item>
+		<item>Le pörög</item>
+		<item>Forog</item>
+		<item>Ráhajt</item>
+		<item>Kocka be</item>
+		<item>Kocka ki</item>
+		<item>Rakás</item>
+		<item>Harmonika</item>
+		<item>Henger be</item>
+		<item>Henger ki</item>
+		<item>Körhinta</item>
+	</string-array>
+	<string-array name="desktop_transition_effect_values">
+		<item>Standard</item>
+		<item>OverShoot</item>
+		<item>ZoomIn</item>
+		<item>ZoomOut</item>
+		<item>RotateUp</item>
+		<item>RotateDown</item>
+		<item>Spin</item>
+		<item>Flip</item>
+		<item>CubeIn</item>
+		<item>CubeOut</item>
+		<item>Stack</item>
+		<item>Accordion</item>
+		<item>CylinderIn</item>
+		<item>CylinderOut</item>
+		<item>CarouselLeft</item>
+	</string-array>
+	<string-array name="large_screen_layout">
+		<item>4 * 4</item>
+		<item>4 * 5</item>
+	</string-array>
+	<string-array name="large_screen_layout_value">
+		<item>4|4</item>
+		<item>4|5</item>
+	</string-array>
+	<string-array name="ex_large_screen_layout">
+		<item>4 * 4</item>
+		<item>4 * 5</item>
+		<item>5 * 5</item>
+	</string-array>
+	<string-array name="ex_large_screen_layout_value">
+		<item>4|4</item>
+		<item>4|5</item>
+		<item>5|5</item>
+	</string-array>
+	<array name="wallpapers"/>
+</resources>
