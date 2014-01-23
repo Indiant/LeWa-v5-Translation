@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fotó képernyővédők</string>
+    <string name="table_screensaver_name">Fotó Tábla</string>
+    <string name="flipper_screensaver_name">Fotó keret</string>
+    <string name="posts_album_name">Fotók a hozzászólásokból</string>
+    <string name="uploads_album_name">Azonnali feltöltések</string>
+    <string name="unknown_album_name">Névtelen Album</string>
+    <string name="stock_photo_album_name">Gyári fotók</string>
+    <string name="local_source_name">Fotók a készüléken</string>
+    <string name="need_to_configure">Nem választott fényképeket.</string>
+</resources>
