@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_clear_all_button">Tiszta</string>
+    <string name="notifications_off_title">Értesítés funkció le van tiltva</string>
+    <string name="notifications_off_text">Kattintson ide, hogy újra engedélyezze értesítéseket.</string>
+</resources>
