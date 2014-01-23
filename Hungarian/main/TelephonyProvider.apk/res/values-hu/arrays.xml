@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_quick_texts">
+        <item>Hol vagy?</item>
+        <item>Mit csinálsz?</item>
+        <item>Sürgős, hívj!</item>
+        <item>Tárgyaláson vagyok</item>
+        <item>Nem érek rá, hívj vissza később</item>
+        <item>Jól vagyok</item>
+        <item>Megyek hazafelé</item>
+        <item>Most nem tudok beszélni</item>
+        <item>Vezetek</item>
+        <item>Nem érek rá, valami sürgős?</item>
+        <item>Nem érek rá, mi történt?</item>
+    </string-array>
+</resources>
