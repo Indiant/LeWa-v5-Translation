@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="local_device_account_name">Eszköz</string>
+    <string name="name_given">Keresztnév</string>
+    <string name="name_family">Vezetéknév</string>
+    <string name="display_options_sort_by_given_name">Keresztnév szerint</string>
+    <string name="display_options_sort_by_family_name">Vezetéknév szerint</string>
+    <string name="display_options_view_given_name_first">Keresztnév elől</string>
+    <string name="display_options_view_family_name_first">Vezetéknév elől</string>
+    <string name="deleteCallLogConfirmation_title">Törölje a hívás(oka)t?</string>
+    <string name="deleteCallLogConfirmation_message">Biztos benne, hogy törli a kijelölt hívásokat?</string>
+</resources>
