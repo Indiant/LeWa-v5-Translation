@@ -255,7 +255,7 @@ out of space"</string>
     <string name="minutereminder_title">Minute reminder</string>
     <string name="minutereminder_turnon">Turn on minute reminder at 50s of every minute</string>
     <string name="minutereminder_turnoff">Turn off minute reminder</string>
-    <string name="voice_call_settings">Voice call settings</string>
+    <string name="voice_call_settings">Hanghívás beállítások</string>
     <string name="enable_sip_dialog_message">Internet call is disabled, would you like to enable it?</string>
     <string name="ip_prefix_setting">IP prefix number</string>
     <string name="ip_prefix_setting_sum">IP prefix number settings</string>
@@ -270,7 +270,7 @@ out of space"</string>
     <string name="confirm_3g_switch">Are you sure you want to set 3G service to this SIM? This will also set the default SIM for Video call to this SIM automatically.</string>
     <string name="modem_switching">Switching SIM will take around 10 seconds to complete. Please wait...</string>
     <string name="confirm_3g_switch_to_off">Are you sure you want to turn off 3G service? This will also turn off Video call service automatically.</string>
-    <string name="service_3g_off">Off</string>
+    <string name="service_3g_off">Ki</string>
     <string name="enable_3G_service">Enable 3G</string>
     <string name="setting_for_3G_service">3G service</string>
     <string name="network_forbidden">forbidden</string>
@@ -823,20 +823,20 @@ Data rate reduced to %2$d Kb/s"</string>
     <string name="caller_manage_manage_done_text">Vissza a híváshoz</string>
     <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
     <string name="voicemail_settings_number_label">Voicemail number</string>
-    <string name="card_title_dialing">Dialing</string>
+    <string name="card_title_dialing">Tárcsáz</string>
     <string name="card_title_redialing">Retrying</string>
-    <string name="card_title_conf_call">Conference call</string>
-    <string name="card_title_incoming_call">Incoming call</string>
+    <string name="card_title_conf_call">Konferencia hívás</string>
+    <string name="card_title_incoming_call">Bejövő hívás</string>
     <string name="card_title_call_ended">Call ended</string>
-    <string name="card_title_on_hold">On hold</string>
+    <string name="card_title_on_hold">Tartva</string>
     <string name="card_title_hanging_up">Hanging up</string>
     <string name="card_title_in_call">In call</string>
-    <string name="card_title_my_phone_number">My number is %s</string>
-    <string name="notification_dialing">Dialing</string>
-    <string name="notification_missedCallTitle">Missed call</string>
-    <string name="notification_missedCallsTitle">Missed calls</string>
-    <string name="notification_missedCallsMsg">%s missed calls</string>
-    <string name="notification_missedCallTicker">Missed call from %s</string>
+    <string name="card_title_my_phone_number">A számom %s</string>
+    <string name="notification_dialing">Tárcsáz</string>
+    <string name="notification_missedCallTitle">Nem fogadott hívás</string>
+    <string name="notification_missedCallsTitle">Nem fogadott hívások</string>
+    <string name="notification_missedCallsMsg">%s elmulasztott hívás</string>
+    <string name="notification_missedCallTicker">%s hívta</string>
     <string name="notification_ongoing_call_format">Current call (%s)</string>
     <string name="notification_ongoing_call">Ongoing call</string>
     <string name="notification_on_hold">On hold</string>
@@ -847,9 +847,9 @@ Data rate reduced to %2$d Kb/s"</string>
     <string name="notification_voicemail_no_vm_number">Voicemail number unknown</string>
     <string name="notification_network_selection_title">No service</string>
     <string name="notification_network_selection_text">Selected network (%s) unavailable</string>
-    <string name="notification_action_end_call">Hang up</string>
-    <string name="notification_missedCall_call_back">Call back</string>
-    <string name="notification_missedCall_message">Message</string>
+    <string name="notification_action_end_call">Lerak</string>
+    <string name="notification_missedCall_call_back">Visszahív</string>
+    <string name="notification_missedCall_message">Üzenet</string>
     <string name="incall_error_power_off">To place a call, first turn off Airplane mode.</string>
     <string name="incall_error_emergency_only">Not registered on network.</string>
     <string name="incall_error_out_of_service">Mobile network not available.</string>
@@ -870,28 +870,28 @@ Data rate reduced to %2$d Kb/s"</string>
     <string name="dial_emergency_error">Call not sent. %s is not an emergency number!</string>
     <string name="dial_emergency_empty_error">Call not sent. Dial an emergency number!</string>
     <string name="dialerKeyboardHintText">Use keyboard to dial</string>
-    <string name="onscreenHoldText">"Hold
+    <string name="onscreenHoldText">"Tart
 "</string>
-    <string name="onscreenEndCallText">End</string>
-    <string name="onscreenShowDialpadText">"Dialpad
+    <string name="onscreenEndCallText">Lerak</string>
+    <string name="onscreenShowDialpadText">"Tárcsázó
 "</string>
-    <string name="onscreenHideDialpadText">"Hide
+    <string name="onscreenHideDialpadText">"Elrejt
 "</string>
     <string name="onscreenSpeakerText">"Speaker
 "</string>
-    <string name="menu_more">"More
+    <string name="menu_more">"Több
 "</string>
-    <string name="menu_record">"Recording
+    <string name="menu_record">"Felvétel
 "</string>
     <string name="recording">Please open the hands-free recording</string>
     <string name="menu_recording">"Being recorded
 "</string>
-    <string name="contactsIconLabel">"Contacts
+    <string name="contactsIconLabel">"Névjegyzék
 "</string>
     <string name="import_contact_count">%dcontacts successfully imported</string>
     <string name="onscreenBluetoothText">"Bluetooth
 "</string>
-    <string name="onscreenMuteText">"Mute
+    <string name="onscreenMuteText">"Némít
 "</string>
     <string name="onscreenAddCallText">"Add call
 "</string>
@@ -901,7 +901,7 @@ Data rate reduced to %2$d Kb/s"</string>
 "</string>
     <string name="onscreenManageCallsText">Manage calls</string>
     <string name="onscreenManageConferenceText">Manage conference</string>
-    <string name="onscreenAudioText">"Audio
+    <string name="onscreenAudioText">"Kihangosít
 "</string>
     <string name="importSimEntry">Import</string>
     <string name="importAllSimEntries">Import all</string>
@@ -996,9 +996,9 @@ Try again or call customer service for more options."</string>
     <string name="third_party_account_summary">This account is currently in use by the %s app.</string>
     <string name="sip_edit_title">SIP account details</string>
     <string name="sip_edit_new_title">SIP account details</string>
-    <string name="domain_address_title">Server</string>
-    <string name="username_title">Username</string>
-    <string name="password_title">Password</string>
+    <string name="domain_address_title">Szerver</string>
+    <string name="username_title">Felhasználónév</string>
+    <string name="password_title">Jelszó</string>
     <string name="display_name_title">Display name</string>
     <string name="proxy_address_title">Outbound proxy address</string>
     <string name="port_title">Port number</string>
@@ -1029,8 +1029,8 @@ Try again or call customer service for more options."</string>
     <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
     <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
     <string name="domain_address">SipDomain</string>
-    <string name="username">UserName</string>
-    <string name="password">Password</string>
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó</string>
     <string name="display_name">DisplayName</string>
     <string name="proxy_address">ProxyAddress</string>
     <string name="port">Port</string>
