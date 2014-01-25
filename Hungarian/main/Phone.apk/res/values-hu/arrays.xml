@@ -139,7 +139,7 @@
     <item>@string/pref_camera_coloreffect_entry_sepiagreen</item>
   </string-array>
   <string-array name="vt_incall_setting_local_video_effect_values">
-    <item>none</item>
+    <item>semmilyen</item>
     <item>mono</item>
     <item>szépia</item>
     <item>negatív</item>
