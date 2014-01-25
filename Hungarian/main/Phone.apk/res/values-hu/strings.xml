@@ -125,10 +125,8 @@ c<?xml version="1.0" encoding="utf-8"?>
     <string name="vt_pic_replace_local_freezeme">Freeze me</string>
     <string name="vt_pic_replace_local_mypic">My picture</string>
     <string name="vt_local_video_display">Local video display</string>
-    <string name="vt_sd_null">"SD card is
-unavailable"</string>
-    <string name="vt_sd_not_enough">"SD card is running
-out of space"</string>
+    <string name="vt_sd_null">"SD card is unavailable"</string>
+    <string name="vt_sd_not_enough">"SD card is running out of space"</string>
     <string name="vt_peer_video_quality_normal">Normal</string>
     <string name="vt_peer_video_quality_sharp">Sharp</string>
     <string name="vt_ask_show_local">Show local video to peer?</string>
@@ -375,10 +373,8 @@ out of space"</string>
     <string name="auto_reject_sum_voice">Set to block all voice incoming calls directly</string>
     <string name="auto_reject_sum_video">Set to block all video incoming calls directly</string>
     <string name="auto_reject_sum_sip">Set to block all Internet incoming calls directly</string>
-    <string name="mo_code_unconditional_cf_active">"Call forwarding
-unconditional activated"</string>
-    <string name="mo_code_some_cf_active">"Call Forwarding
-On Conditional"</string>
+    <string name="mo_code_unconditional_cf_active">"Call forwarding unconditional activated"</string>
+    <string name="mo_code_some_cf_active">"Call Forwarding On Conditional"</string>
     <string name="mo_code_call_forwarded">Call forwarded</string>
     <string name="mo_code_call_is_waiting">Waiting call</string>
     <string name="mo_code_cug_call">Closed User Group</string>
@@ -540,10 +536,8 @@ Next period starts in %2$d days (%3$s)"</string>
     <string name="audio_mode_earpiece">Kézibeszélő fülhallgatója</string>
     <string name="audio_mode_wired_headset">Vezetékes fülhallgató</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
-    <string name="wait_prompt_str">"Elküldi a következő hangjelzéseket?
-"</string>
-    <string name="pause_prompt_str">"Hangjelzések küldése
-"</string>
+    <string name="wait_prompt_str">"Elküldi a következő hangjelzéseket?"</string>
+    <string name="pause_prompt_str">"Hangjelzések küldése"</string>
     <string name="send_button">Küldés</string>
     <string name="pause_prompt_yes">Igen</string>
     <string name="pause_prompt_no">Nem</string>
@@ -870,39 +864,25 @@ Data rate reduced to %2$d Kb/s"</string>
     <string name="dial_emergency_error">Call not sent. %s is not an emergency number!</string>
     <string name="dial_emergency_empty_error">Call not sent. Dial an emergency number!</string>
     <string name="dialerKeyboardHintText">Use keyboard to dial</string>
-    <string name="onscreenHoldText">"Tart
-"</string>
+    <string name="onscreenHoldText">"Tart"</string>
     <string name="onscreenEndCallText">Lerak</string>
-    <string name="onscreenShowDialpadText">"Tárcsázó
-"</string>
-    <string name="onscreenHideDialpadText">"Elrejt
-"</string>
-    <string name="onscreenSpeakerText">"Speaker
-"</string>
-    <string name="menu_more">"Több
-"</string>
-    <string name="menu_record">"Felvétel
-"</string>
+    <string name="onscreenShowDialpadText">"Tárcsázó"</string>
+    <string name="onscreenHideDialpadText">"Elrejt"</string>
+    <string name="onscreenSpeakerText">"Speaker"</string>
+    <string name="menu_more">"Több"</string>
+    <string name="menu_record">"Felvétel"</string>
     <string name="recording">Please open the hands-free recording</string>
-    <string name="menu_recording">"Being recorded
-"</string>
-    <string name="contactsIconLabel">"Névjegyzék
-"</string>
+    <string name="menu_recording">"Being recorded"</string>
+    <string name="contactsIconLabel">"Névjegyzék"</string>
     <string name="import_contact_count">%dcontacts successfully imported</string>
-    <string name="onscreenBluetoothText">"Bluetooth
-"</string>
-    <string name="onscreenMuteText">"Némít
-"</string>
-    <string name="onscreenAddCallText">"Add call
-"</string>
-    <string name="onscreenMergeCallsText">"Merge calls
-"</string>
-    <string name="onscreenSwapCallsText">"Swap
-"</string>
+    <string name="onscreenBluetoothText">"Bluetooth"</string>
+    <string name="onscreenMuteText">"Némít"</string>
+    <string name="onscreenAddCallText">"Add call"</string>
+    <string name="onscreenMergeCallsText">"Merge calls"</string>
+    <string name="onscreenSwapCallsText">"Swap"</string>
     <string name="onscreenManageCallsText">Manage calls</string>
     <string name="onscreenManageConferenceText">Manage conference</string>
-    <string name="onscreenAudioText">"Kihangosít
-"</string>
+    <string name="onscreenAudioText">"Kihangosít"</string>
     <string name="importSimEntry">Import</string>
     <string name="importAllSimEntries">Import all</string>
     <string name="importingSimContacts">Importing SIM contacts</string>
