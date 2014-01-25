@@ -865,7 +865,7 @@ Data rate reduced to %2$d Kb/s"</string>
     <string name="dial_emergency_empty_error">Call not sent. Dial an emergency number!</string>
     <string name="dialerKeyboardHintText">Use keyboard to dial</string>
     <string name="onscreenHoldText">"Tart"</string>
-    <string name="onscreenEndCallText">Lerak</string>
+    <string name="onscreenEndCallText">"Lerak"</string>
     <string name="onscreenShowDialpadText">"Tárcsázó"</string>
     <string name="onscreenHideDialpadText">"Elrejt"</string>
     <string name="onscreenSpeakerText">"Speaker"</string>
