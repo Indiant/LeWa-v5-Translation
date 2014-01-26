@@ -135,5 +135,4 @@ Jelenleg elérhető memória %2$d M"</string>
     <string name="app_not_found_dlg_text">"Az alkalmazás nem található a telepített alkalmazások listájában."</string>
     <string name="external_drop_widget_error">Nem húzható ez az elem a főképernyőre.</string>
     <string name="external_drop_widget_pick_title">Válassza ki a létrehozandó widgetet</string>
-
 </resources>
