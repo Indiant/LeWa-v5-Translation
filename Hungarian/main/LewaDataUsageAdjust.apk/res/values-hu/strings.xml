@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Adatszinkronizálás</string>
-  <string name="app_summary">Part of Data Meterũ LeWaTek Limited.</string>
+  <string name="app_summary">Data Meterũ LeWaTek Limited része.</string>
   <string name="app_title">3G adathasználat</string>
   <string name="request_failed">3G adathasználati kérés sikertelen</string>
   <string name="request_sms">SMS küldési beállítások kérése</string>
