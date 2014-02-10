@@ -2,26 +2,26 @@
 <resources>
   <plurals name="Nsongs">
     <item quantity="one">%d dal</item>
-    <item quantity="other">1 dal</item>
+    <item quantity="other">%d dal</item>
   </plurals>
   <plurals name="Nalbums">
     <item quantity="one">%d album</item>
-    <item quantity="other">1 album</item>
+    <item quantity="other">%d album</item>
   </plurals>
   <plurals name="NNNtrackstoplaylist">
     <item quantity="one">%d dal hozzáadva a lejátszási listához</item>
-    <item quantity="other">1 dal hozzáadva a lejátszási listához</item>
+    <item quantity="other">%d dal hozzáadva a lejátszási listához</item>
   </plurals>
   <plurals name="NNNtracksdeleted">
     <item quantity="one">%d dal törölve</item>
-    <item quantity="other">1 dal törölve</item>
+    <item quantity="other">%d dal törölve</item>
   </plurals>
   <plurals name="NNNsearchsong">
-    <item quantity="one">find %d songs</item>
-    <item quantity="other">find 1 song</item>
+    <item quantity="one">%d talált dal</item>
+    <item quantity="other">%d talált dal</item>
   </plurals>
   <plurals name="Nfolders">
     <item quantity="one">%d könyvtár</item>
-    <item quantity="other">1 könyvtár</item>
+    <item quantity="other">%d könyvtár</item>
   </plurals>
 </resources>
