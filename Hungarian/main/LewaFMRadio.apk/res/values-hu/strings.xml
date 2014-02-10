@@ -95,9 +95,9 @@
   <string name="FMR_Patch_Version">Nincs.</string>
   <string name="FMR_DSP_Version_text">DSP verzió</string>
   <string name="FMR_DSP_Version">Nincs.</string>
-  <string name="insert_the_headset_prompt">\"
+  <string name="insert_the_headset_prompt">"
 Csatlakoztassa a fülhallgatót!
-\"</string>
+"</string>
   <string name="headset_prompt">Fülhallgató</string>
   <string name="mhz">MHZ</string>
   <string name="fm">FM</string>
@@ -119,4 +119,10 @@ Csatlakoztassa a fülhallgatót!
   <string name="menu_actionbar_selected_items">%s kiválasztva</string>
   <string name="menu_multichoice_select_all">Összes kijelölése</string>
   <string name="menu_multichoice_clear_select">Kijelölés törlése</string>
+  <string name="airplane_mode_on">Repülőgép mód be van kapcsolva, nem tudja használni a rádiót</string>
+  <string name="correct">Ok</string>
+  <string name="error">Hiba</string>
+  <string name="toast_earphone_plug_in">fülhallgató bedugva</string>
+  <string name="toast_earphone_plug_out">fülhallgató kihúzva</string>
+  <string name="toast_noantenna_text">A fülhallgató nincs csatlakoztatva!</string>
 </resources>

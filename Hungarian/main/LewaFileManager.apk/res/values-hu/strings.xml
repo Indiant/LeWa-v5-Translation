@@ -129,7 +129,7 @@ Folytatja a küldést?\"</string>
   <string name="renaming">Kategóriák frissítése, kérem várjon</string>
   <string name="unknown">Ismeretlen</string>
   <string name="copied">sd megtelt，másolt fájlok: %s</string>
-  <string name="uncopied">uncopied: %s</string>
+  <string name="uncopied">nincs másolva: %s</string>
   <string name="ringtone_clock">Beállítás alapértelmezett Óra</string>
   <string name="ringtone_sms">Beállítás alapértelmezett értesítés</string>
   <string name="ringtone_comingcall">Beállítás alapértelmezett hívás</string>
@@ -190,6 +190,8 @@ Folytatja a küldést?\"</string>
   <string name="confirm_know">OK</string>
   <string name="error_info_cant_send_folder">Nem lehet elküldeni a mappát</string>
   <string name="fail_to_create_folder">Nem sikerült létrehozni a mappát, mert már létezik</string>
+  <string name="fail_to_create_folder_invalid_name">Nem sikerült létrehozni a mappát, rossz név</string>
+  <string name="name_too_long">A név túl hosszú, próbálja újra!</string>
   <string name="fail_to_rename">Nem sikerült a fájl, vagy a mappa átnevezése, mert már létezik</string>
   <string name="file_info_canread">Olvasható:</string>
   <string name="file_info_canwrite">Írható:</string>
@@ -342,4 +344,6 @@ Folytatja a küldést?\"</string>
   <string name="usbotg_name">USB OTG</string>
   <string name="sdcard_io_error">SD-kártya hiba</string>
   <string name="FileListDateFormat">yyyy/MM/dd</string>
+  <string name="file_move_failed">fájl mozgatás sikertelen</string>
+  <string name="file_not_found">fájl nem található</string>
 </resources>
