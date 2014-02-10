@@ -2,7 +2,6 @@
 <resources>
   <string name="app_name">Rendszertisztítás</string>
   <string name="menu_settings">Beállítások</string>
-  <string name="clean_data">Szemét kisöprés</string>
   <string name="title_activity_main">Főtevékenység</string>
   <string name="calculate_sdcard">SD kártya kiszámítása</string>
   <string name="clean_sdcard">SD kártya takarítása</string>
@@ -20,7 +19,6 @@
   <string name="install_location_sd">%1$s(Egyes alkalmazások nem támogatják)</string>
   <string name="install_location_auto">A rendszer dönti el</string>
   <string name="clear_data_title">szemét tisztítása</string>
-  <string name="calculate_now">Észlelés</string>
   <string name="space_available">rendelkezésre álló hely</string>
   <string name="space_used">használt terület</string>
   <string name="category_application">alkalmazások</string>
@@ -91,5 +89,4 @@
   <string name="clean_system_cache_file">Rendszer cache:</string>
   <string name="clean_calculate_complete_result">%1$s szabad hely, tisztításután a várhatóan %2$s</string>
   <string name="storage_install_app_sdcard_summary">(Egyes alkalmazások nem támogatják)</string>
-  <string name="clean_no_item">Legalább egy tételt válasszon</string>
 </resources>

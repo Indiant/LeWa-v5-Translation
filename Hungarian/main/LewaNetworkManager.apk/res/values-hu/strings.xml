@@ -45,13 +45,12 @@
   <string name="pref_data_pack">Adatcsomag</string>
   <string name="pref_data_pack_title">Adatcsomag szerkesztése</string>
   <string name="pref_data_pack_summary">%1$s, visszalévő:%2$s, kezdődátum:%3$s</string>
-  <string name="pref_data_pack_summary_unset">%1$s,%2$s, start date:%3$s</string>
   <string name="pref_monthly_usage">Havi használat</string>
   <string name="pref_adjust_settings">Automatikus adatok szinkronizálása</string>
   <string name="pref_adjust_regularly">Használati adatok szinkronizálása</string>
   <string name="background_warning_title">Háttéradat figyelmeztetés</string>
-  <string name="background_warning_content">"Háttéradatok túllépik az 1 MB-ot
-, bezárhat néhány alkalmazást"</string>
+  <string name="background_warning_content">\"Háttéradatok túllépik az 1 MB-ot
+, bezárhat néhány alkalmazást\"</string>
   <string name="background_warning_close_content">A Háttéradat figyelmeztetés kikapcsolva, ami miatt adatvesztés lehetséges, biztos benne, hogy bezárja?</string>
   <string name="pref_data_warning">Adatkorláthoz közeledve figyelmeztetés</string>
   <string name="notify_data_warning">Kevés felhasználható adatforgalma maradt</string>
@@ -64,7 +63,8 @@
   <string name="pref_background_warning">háttér figyelmeztetés</string>
   <string name="pref_background_warning_summary">figyelmeztessen ha a 2G/3G adatok túllépik az 1Mb-ot</string>
   <string name="pref_clear_history">Használati adatok törlése</string>
-  <string name="pref_clear_history_confirm">Biztosan törölni akarja az adathasználati előzményeket?</string>
+  <string name="pref_clear_history_confirm">\"Biztosan törölni akarja az adathasználati előzményeket？
+(a mobil és a WiFi adatforgalmi adatok is törlődni fognak)\"</string>
   <string name="reboot">Újraindít</string>
   <string name="widget_disabled_mobile">Mobil adatforgalom kikapcsolva</string>
   <string name="widget_today_usage">Ma</string>
@@ -75,10 +75,10 @@
   <string name="notify_data_pack_summary">@string/widget_data_pack_warning</string>
   <string name="permlab_manageNetworkPolicy">hálózati házirend kezelése</string>
   <string name="permdesc_manageNetworkPolicy">Lehetővé teszi ,hogy az alkalmazás kezelje a hálózati irányelveket és meghatározza az alkalmazás-specifikus szabályokat.</string>
-  <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
-"<font size="12">figyelmeztetés</font></string>
-  <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
-"<font size="12">korlát</font></string>
+  <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>\"
+\"<font size="12">figyelmeztetés</font></string>
+  <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>\"
+\"<font size="12">korlát</font></string>
   <string name="data_usage_total_during_range">%2$s: körülbelül %1$s használt</string>
   <string name="data_usage_disclaimer">"A telefon mérésétől a szolgáltató adatforgalom számlálása eltérő lehet."</string>
   <string name="data_usage_empty">Nem bonyolítottak adatforgalmat az alkalmazások alkalmazások ebben az időszakban.</string>
@@ -99,9 +99,9 @@
   <string name="data_usage_restrict_denied_dialog">"Ha korlátozni akarja a háttéradatokat, először állítsa be a mobil adatátviteli limitet."</string>
   <string name="data_usage_restrict_background_title">Célzás</string>
   <string name="data_usage_restrict_background">"Ha korlátozza a mobiladatokat, egyes alkalmazások és szolgáltatások nem fognak működni, biztos beállítja?"</string>
-  <string name="data_usage_app_restrict_dialog">"Ez a funkció azt okozhatja, hogy egy program, ami a háttéradatoktól függ leáll ha a Wi-Fi nem elérhető.
+  <string name="data_usage_app_restrict_dialog">\"Ez a funkció azt okozhatja, hogy egy program, ami a háttéradatoktól függ leáll ha a Wi-Fi nem elérhető.
 
-A program beállításaiban talál további adatforgalomi vezérlőket."</string>
+A program beállításaiban talál további adatforgalomi vezérlőket.\"</string>
   <string name="data_config_title">Hálózat engedélyek</string>
   <string name="data_config_mobile">2G/3G</string>
   <string name="data_config_background"> Háttéradatok engedélyezése</string>
@@ -116,7 +116,7 @@ A program beállításaiban talál további adatforgalomi vezérlőket."</string
   <string name="daily_usage_warning_title">Napi adathasználati figyelmeztetés</string>
   <string name="daily_usage_warning_message">"mai mobil adatforgalom% 1 $ s"</string>
   <string name="daily_usage_warning_summary_unset">Kérjük, állítsa be az adattervet.</string>
-  <string name="daily_usage_no_warning">nincs figyelmeztetés</string>
+  <string name="daily_usage_no_warning">nincsfigyelmeztetés</string>
   <string name="daily_usage_recommand">(recommand)</string>
   <string name="continue_use">használat folytatása</string>
   <string name="see_details">részletek</string>

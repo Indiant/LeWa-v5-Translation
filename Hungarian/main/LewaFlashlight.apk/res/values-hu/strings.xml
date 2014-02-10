@@ -3,6 +3,4 @@
   <string name="flashDevice">/sys/class/leds/flashlight/brightness</string>
   <string name="app_name">Zseblámpa</string>
   <string name="prompt">Tartsa lenyomva a Home gombot, hogy bekapcsolja a fényt zárképernyős módban.</string>
-  <string name="errorCameraOpenTitle">Vaku hiba</string>
-  <string name="errorCameraOpenMessage">"Nem lehet megnyitni zseblámpát, valamilyen alkalmazás használja a fényképezőgép felhasználói felületét"</string>
 </resources>

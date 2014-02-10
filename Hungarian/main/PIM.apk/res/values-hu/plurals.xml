@@ -47,7 +47,6 @@
   <plurals name="slide_duration">
     <item quantity="one">%s mp</item>
     <item quantity="other">%s mp</item>
-    <item quantity="few">%s mp</item>
   </plurals>
   <plurals name="search_results_title">
     <item quantity="one">%1$s eredménye \"%2$s\"</item>

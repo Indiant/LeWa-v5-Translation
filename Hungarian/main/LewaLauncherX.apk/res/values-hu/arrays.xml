@@ -52,5 +52,5 @@
         <item>4|5</item>
         <item>5|5</item>
     </string-array>
-    <array name="wallpapers" />
+    <array name="wallpapers"/>
 </resources>

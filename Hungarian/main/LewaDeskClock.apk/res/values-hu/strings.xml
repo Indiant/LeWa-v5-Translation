@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="default_city">804365</string>
   <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
   <string name="app_label">Óra</string>
   <string name="alarm_list_title">Ébresztő</string>
   <string name="add_alarm">Ébresztő hozzáadása</string>
-  <string name="modify_alarm">Ébresztés módosítása</string>
   <string name="menu_desk_clock">Óra</string>
   <string name="menu_edit_alarm">Ébresztés hozzáadása</string>
   <string name="delete_alarm">Ébresztés törlése</string>
@@ -103,8 +101,8 @@
   <string name="five_minute">Öt perc</string>
   <string name="ten_minute">Tíz perc</string>
   <string name="timer_ring">Figyelmeztető hang</string>
-  <string name="timer_init_start">"Húzza a
- kezdéshez"</string>
+  <string name="timer_init_start">\"Húzza a
+ kezdéshez\"</string>
   <string name="timer_time_up">Elkövetkezett</string>
   <string name="timer_time_up_ok">Ismert</string>
   <string name="delete_selected">Kiválasztva %s</string>
@@ -115,22 +113,5 @@
   <string name="menu_actionbar_selected_items">%s kiválasztva</string>
   <string name="menu_multichoice_select_all">Összes kijelölése</string>
   <string name="menu_multichoice_clear_select">Összes kijelölés törlése</string>
-    <string name="time_zh_str">Budapest</string>
-    <string name="early_time">korai%1$sórák</string>
-    <string name="later_time">kései%1$sórák</string>
-    <string name="lab">Lap</string>
-    <string name="left_text">következő ébresztő：</string>
-    <string name="alarm_day">nap</string>
-    <string name="alarm_hour">óra</string>
-    <string name="alarm_minute">perc</string>
-    <string name="alarm_second">másodperc</string>
-    <string name="snooze_time_summary">tíz perc（alap）</string>
-    <string name="snooze_time">szundi</string>
-    <string name="snooze_minutes">perc</string>
-    <string name="one_count">csak egyszer</string>
-    <string name="monday_friday">hétfő - péntek</string>
-    <string name="repeat_count_custom">egyéni</string>
-    <string name="current_time">aktuális idő:</string>
-    <string name="set_timezone">beállítások</string>
   <string name="please_select_one_more_citys">Válasszon ki legalább egy várost</string>
 </resources>

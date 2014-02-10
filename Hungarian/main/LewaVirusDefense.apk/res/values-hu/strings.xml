@@ -20,12 +20,10 @@
   <string name="is_cancel1">Javasolt az újraellenőrzés</string>
   <string name="is_cancel2">Az ellenőrzés megszakítva,  biztonsági szintje nem megállapítható</string>
   <string name="scanner_title">Ellenőrzés</string>
-  <string name="clean_now">Tisztítás most</string>
   <string name="init_scan">0%</string>
   <string name="gap_notice">%s óta ellenőrizve</string>
   <string name="gap_error_notice">%s óta ellenőrizve</string>
   <string name="scan_just_now">Az imént ellenőrizve</string>
-  <string name="tencent_log">Tencent mobil komornyik, technikai támogatás nyújtáshoz</string>
   <string name="defense_monitor_open">A figyelés aktív</string>
   <string name="defense_monitor_close1">A figyelés részben aktív</string>
   <string name="defense_monitor_close2">Rizikós</string>
@@ -37,8 +35,7 @@
   <string name="scan_cancel">Vizsgálat megszakítása</string>
   <string name="scan_pause">Vizsgálat szüneteltetése</string>
   <string name="scan_pause_log">A vizsgálat már szünetel</string>
-  <string name="scan_finish">Vizsgálat befejezve</string>
-  <string name="done">Kész</string>
+  <string name="scan_finish">Kész</string>
   <string name="clear_now">Tisztítás most</string>
   <string name="scan_warm_tips">Figyem</string>
   <string name="scan_dialog_content">A vírusellenőrzés még nem fejeződött be, biztosan abba akarja hagyni?</string>
@@ -91,7 +88,7 @@
   <string name="log_unhandle_counts">Kezeletlen:%s</string>
   <string name="log_clear_all">Törlés</string>
   <string name="log_if_clear_all">Biztosan törli %s ellenőrzés eredményeit?</string>
-  <string name="menu_actionbar_selected_items">%s kiválasztva</string>
+  <string name="menu_actionbar_selected_items">%s selected</string>
   <string name="setting">Vírusellenőrzés beállításai</string>
   <string name="setting_install_monitor">Figyelés beállításai</string>
   <string name="setting_unknown_costs">Gyanús viselkedés figyelése</string>

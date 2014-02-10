@@ -212,7 +212,7 @@ Biztosan engedélyezni akarja a GPS-t és várakozik a GPS által biztosított i
   <string name="drm_settings_summary">Törli az összes DRM-licenet</string>
   <string name="drm_reset_dialog_msg">Ez a művelet törli az eszközön tárolt összes licencet. Folytatja?</string>
   <string name="drm_reset_toast_msg">A licencek törlése sikeresen megtörtént.</string>
-  <string name="gemini_sim_management_title">Dupla SIM-kezelés</string>
+  <string name="gemini_sim_management_title">SIM-kezelés</string>
   <string name="gemini_sim_info_title">SIM-információ</string>
   <string name="gemini_default_sim_title">Alapértelmezett SIM</string>
   <string name="gemini_general_settings_title">Általános beállítások</string>
@@ -1442,7 +1442,7 @@ Phone setup can require significant network activity.\"</string>
   <string name="lockpattern_settings_help_how_to_record">Hogyan kell feloldási mintát rajzolni</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Túl sok helytelen próbálkozás!</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Próbálja újra %d másodperc múlva.</string>
-  <string name="activity_not_found">A program nincs telepítve a telefonjára.</string>
+  <string name="activity_not_found">Application is not installed on your phone.</string>
   <string name="skip_button_label">Mégse</string>
   <string name="next_button_label">Tovább</string>
   <string name="lock_title">A telefon védelme</string>
@@ -1455,8 +1455,8 @@ Phone setup can require significant network activity.\"</string>
   <string name="install_applications">Ismeretlen források</string>
   <string name="install_unknown_applications">Nem a Marketről származó alkalmazások telepítésének engedélyezése</string>
   <string name="install_all_warning">A telefonra és a személyes adatokra sokkal nagyobb veszélyt jelentenek az ismeretlen forrásból származó alkalmazások támadásai. Ön kijelenti, hogy egyedül Ön felel a telefonon bekövetkező minden olyan kárért vagy adatvesztésért, amely ezen alkalmazások használatából fakad.</string>
-  <string name="verify_applications">Alkalmazások ellenőrzése</string>
-  <string name="verify_applications_summary">Tiltás vagy figyelmeztetés az olyan alkalmazások telepítése előtt, amelyek károsak lehetnek</string>
+  <string name="verify_applications">Verify apps</string>
+  <string name="verify_applications_summary">Disallow or warn before installation of apps that may cause harm</string>
   <string name="advanced_settings">Speciális beállítások</string>
   <string name="advanced_settings_summary">További beállítási lehetőségek engedélyezése</string>
   <string name="application_info_label">Alkalmazásinformáció</string>
@@ -1476,8 +1476,8 @@ Phone setup can require significant network activity.\"</string>
   <string name="data_size_label">Adatok</string>
   <string name="external_data_size_label">SD-kártya</string>
   <string name="uninstall_text">Eltávolítás</string>
-  <string name="uninstall_all_users_text">Eltávolítás minden felhasználónál</string>
-  <string name="install_text">Telepítés</string>
+  <string name="uninstall_all_users_text">Uninstall for all users</string>
+  <string name="install_text">Install</string>
   <string name="disable_text">Letiltás</string>
   <string name="enable_text">Engedélyezés</string>
   <string name="clear_user_data_text">Adatok törlése</string>
@@ -1495,7 +1495,7 @@ Phone setup can require significant network activity.\"</string>
   <string name="show_running_services">Futó szolgáltatások</string>
   <string name="show_background_processes">Tárolt folyamatok</string>
   <string name="reset_app_preferences">Alapbeállítások</string>
-  <string name="reset_app_preferences_title">Visszaállítja a beállításokat?</string>
+  <string name="reset_app_preferences_title">Reset app preferences?</string>
   <string name="reset_app_preferences_desc">Ez visszaállítja az összes beállítást a következőknél: <li>Letiltott alkalmazások</li> <li>Letiltott alkalmazásokkal kapcsolatos értesítések</li> <li>Alapértelmezett alkalmazások az egyes műveletekhez</li><li>Háttéradatokra vonatkozó korlátozások az alkalmazásoknál</li>Az alkalmazásokban található adatok nem fognak elveszni.</string>
   <string name="reset_app_preferences_button">Alapbeállítások</string>
   <string name="manage_space_text">Terület kezelése</string>
@@ -1528,8 +1528,8 @@ Phone setup can require significant network activity.\"</string>
   <string name="join_many_items_last">%1$s és %2$s</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
-  <string name="security_settings_billing_desc">Ez az alkalmazás díjat számíthat fel:</string>
-  <string name="security_settings_premium_sms_desc">Emelt díjas SMS küldése</string>
+  <string name="security_settings_billing_desc">This app may charge you money:</string>
+  <string name="security_settings_premium_sms_desc">Send premium SMS</string>
   <string name="computing_size">Számítás...</string>
   <string name="invalid_size_value">"Nem lehet kiszámítani a csomag méretét"</string>
   <string name="empty_list_msg">"Nincsenek telepítve harmadik fél által készített alkalmazások."</string>
@@ -1551,8 +1551,8 @@ Phone setup can require significant network activity.\"</string>
   <string name="app_install_location_summary">Az új alkalmazások telepítése során előnyben részesített hely módosítása</string>
   <string name="app_disable_dlg_title">Beépített alkalmazás letiltása?</string>
   <string name="app_disable_dlg_text">Ha letiltja a beépített alkalmazást, más alkalmazások hibásan működhetnek.</string>
-  <string name="app_special_disable_dlg_title">Szeretné törölni az adatokat és letiltani az alkalmazást?</string>
-  <string name="app_special_disable_dlg_text">Ha letilt egy beépített alkalmazást, lehet, hogy más alkalmazások sem fognak megfelelően működni. Az adatok is törlődnek.</string>
+  <string name="app_special_disable_dlg_title">Delete data and disable app?</string>
+  <string name="app_special_disable_dlg_text">If you disable a built-in app, other apps may misbehave. Your data will also be deleted.</string>
   <string name="app_disable_notifications_dlg_title">Kikapcsolja az értesítéseket?</string>
   <string name="app_disable_notifications_dlg_text">Ha kikapcsolja az értesítéseket,a fontos riasztásokat és frissítéseket nem fogja megkapni.</string>
   <string name="storageuse_settings_title">Tárhely-használat</string>
@@ -1569,7 +1569,7 @@ Phone setup can require significant network activity.\"</string>
   <string name="memory">RAM</string>
   <string name="service_process_name">%1$s</string>
   <string name="running_process_item_user_label">User: %1$s</string>
-  <string name="running_process_item_removed_user_label">Törölt felhasználó</string>
+  <string name="running_process_item_removed_user_label">Removed user</string>
   <string name="running_processes_item_description_s_s">%1$d folyamat és %2$d szolgáltatás</string>
   <string name="running_processes_item_description_s_p">%1$d folyamat és %2$d szolgáltatás</string>
   <string name="running_processes_item_description_p_s">%1$d folyamat és %2$dszolgáltatás</string>
@@ -1684,8 +1684,8 @@ Phone setup can require significant network activity.\"</string>
   <string name="adb_warning_message">Az USB hibakeresés fejlesztési célokat szolgál. Használhatja adatok másolására a számítógép és a készülék között, alkalmazások a készülékre való értesítés nélküli telepítésére és naplózási adatok olvasására.</string>
   <string name="dev_settings_warning_title">Engedélyezi a fejlesztői beállításokat?</string>
   <string name="dev_settings_warning_message">Ezek a beállítások csak fejleszői célra szolgálnak. Használatuk esetén eszköze vagy alkalmazásai meghibásodhatnak, iletve nem várt módon viselkedhetnek.</string>
-  <string name="verify_apps_over_usb_title">USB-n keresztül telepített alkalmazások ellenőrzése</string>
-  <string name="verify_apps_over_usb_summary">Az ADB/ADT útján telepített alkalmazások ellenőrzése kártékony viselkedésre.</string>
+  <string name="verify_apps_over_usb_title">Verify apps over USB</string>
+  <string name="verify_apps_over_usb_summary">Check apps installed via ADB/ADT for harmful behavior.</string>
   <string name="enforce_read_external_title">SD kártya védetté tétele</string>
   <string name="enforce_read_external_summary">Az alkalmazások kérjenek engedélyt az SD kártya olvasására</string>
   <string name="enforce_read_external_confirm_title">Védetté teszi az SD kártyát?</string>
@@ -1709,37 +1709,37 @@ Phone setup can require significant network activity.\"</string>
   <string name="accessibility_settings_title">Kisegítő lehetőségek beállításai</string>
   <string name="accessibility_services_title">Szolgáltatások</string>
   <string name="accessibility_system_title">Rendszer</string>
-  <string name="accessibility_screen_magnification_title">Nagyítási kézmozdulatok</string>
-  <string name="accessibility_screen_magnification_summary">Ha a funkció be van kapcsolva, úgy kicsinyíthet/nagyíthat, hogy háromszor rákoppint a képernyőre.
+  <string name="accessibility_screen_magnification_title">Magnification gestures</string>
+  <string name="accessibility_screen_magnification_summary">\"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
 
-Nagyított állapotban:
-"<li><ul>"Pásztázhat: Két vagy több ujját húzza végig a képernyőn.
-"<li>Módosíthatja a nagyítási szintet: Két ujját húzza össze vagy távolítsa el egymástól.</li></ul></li>"
+While zoomed in, you can:
+\"<li><ul>\"Pan: Drag two or more fingers across the screen.
+\"<li>Adjust zoom level: Pinch two or more fingers together or spread them apart.</li></ul></li>\"
 
-Ideiglenesen felnagyíthatja az ujja alatt lévő részt is, úgy hogy hármat koppint és lenyomva hagyja ujját. A nagyított nézetben az ujját húzva fedezheti fel a képernyő más részeit is. Az ujja felemelésével visszatérhet az előző állapotra.
+You can also temporarily magnify what\'s under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state.
 
-Megjegyzés: A háromszoros koppintással való nagyítás a billentyűzet és a navigációs sáv kivételével mindenhol működik."</string>
-  <string name="accessibility_global_gesture_preference_title">Hozzáférési gyorskombináció</string>
-  <string name="accessibility_global_gesture_preference_summary_on">be</string>
-  <string name="accessibility_global_gesture_preference_summary_off">ki</string>
-  <string name="accessibility_global_gesture_preference_description">"Ha a funkció engedélyezve van, gyorsan elérheti a kisegítő lehetőségeket két lépésben:
+Note: Triple-tap for magnification works everywhere except the keyboard and navigation bar.\"</string>
+  <string name="accessibility_global_gesture_preference_title">Accessibility shortcut</string>
+  <string name="accessibility_global_gesture_preference_summary_on">On</string>
+  <string name="accessibility_global_gesture_preference_summary_off">Off</string>
+  <string name="accessibility_global_gesture_preference_description">\"When this feature is turned on, you can quickly enable accessibility features in two steps:
 
-1. lépés: tartsa lenyomva a bekapcsológombot a hangjelzésig vagy rezgésig.
+Step 1: Press and hold the power button until you hear a sound or feel a vibration.
 
-2. lépés: két ujját tartsa lenyomva a hangjelzéssel történő jóváhagyásig.
+Step 2: Touch and hold two fingers until you hear audio confirmation.
 
-Ha az eszközt több felhasználó is használja, akkor e kombináció zárolási képernyőn való használatával ideiglenesen hozzáférhetővé válik az eszköz, amíg fel nem oldják azt."</string>
-  <string name="accessibility_toggle_large_text_preference_title">Nagy szöveg</string>
-  <string name="accessibility_toggle_screen_magnification_preference_title">Képernyőnagyítás</string>
-  <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Képernyőnagyítás automatikus frissítése</string>
-  <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Nagyítás frissítése az alkalmazások közti átmeneteknél</string>
-  <string name="accessibility_power_button_ends_call_prerefence_title">A bekapcsoló gomb megszakítja a hívást</string>
-  <string name="accessibility_toggle_speak_password_preference_title">Jelszavak kimondása</string>
-  <string name="accessibility_long_press_timeout_preference_title">Érintés és tartási késleltetés</string>
-  <string name="accessibility_toggle_script_injection_preference_title">Webelérhetőség fokozása</string>
+If the device has multiple users, using this shortcut on the lock screen temporarily enables accessibility until the device is unlocked.\"</string>
+  <string name="accessibility_toggle_large_text_preference_title">Large text</string>
+  <string name="accessibility_toggle_screen_magnification_preference_title">Screen magnification</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Auto update screen magnification</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Update screen magnification on app transitions</string>
+  <string name="accessibility_power_button_ends_call_prerefence_title">Power button ends call</string>
+  <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
+  <string name="accessibility_long_press_timeout_preference_title">Touch &amp; hold delay</string>
+  <string name="accessibility_toggle_script_injection_preference_title">Enhance web accessibility</string>
   <string name="accessibility_menu_item_settings">Beállítások</string>
-  <string name="accessibility_feature_state_on">Be</string>
-  <string name="accessibility_feature_state_off">Ki</string>
+  <string name="accessibility_feature_state_on">On</string>
+  <string name="accessibility_feature_state_off">Off</string>
   <string name="accessibility_script_injection_allowed">Engedélyezett</string>
   <string name="accessibility_script_injection_disallowed">Nem lehetséges</string>
   <string name="accessibility_script_injection_button_allow">Engedélyezés</string>
@@ -1875,10 +1875,10 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
   <string name="gadget_toggle_wifi">Wi-Fi beállítás frissítése</string>
   <string name="gadget_toggle_bluetooth">Bluetooth beállítások frissítése</string>
   <string name="gadget_state_template">%1$s %2$s</string>
-  <string name="gadget_state_on">be</string>
-  <string name="gadget_state_off">ki</string>
-  <string name="gadget_state_turning_on">bekapcsolás</string>
-  <string name="gadget_state_turning_off">kikapcsolás</string>
+  <string name="gadget_state_on">on</string>
+  <string name="gadget_state_off">off</string>
+  <string name="gadget_state_turning_on">turning on</string>
+  <string name="gadget_state_turning_off">turning off</string>
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_gps">GPS</string>
@@ -2048,10 +2048,10 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
   <string name="show_screen_updates_summary">A képernyőterületek villognak, amikor frissülnek</string>
   <string name="show_hw_screen_updates">GPU nézetfriss. mutatása</string>
   <string name="show_hw_screen_updates_summary">Ablakbeli nézetek villognak GPU-s rajznál</string>
-  <string name="show_hw_layers_updates">Hardverréteg-frissítések</string>
-  <string name="show_hw_layers_updates_summary">Frissítéskor a hardverrétegek zölden villognak</string>
-  <string name="show_hw_overdraw">GPU-kitakarás megjelenít.</string>
-  <string name="show_hw_overdraw_summary">Legjobbtól a legrosszabbig: kék, zöld, piros</string>
+  <string name="show_hw_layers_updates">Show hardware layers updates</string>
+  <string name="show_hw_layers_updates_summary">Flash hardware layers green when they update</string>
+  <string name="show_hw_overdraw">Show GPU overdraw</string>
+  <string name="show_hw_overdraw_summary">From best to worst: blue, green, light red, red</string>
   <string name="disable_overlays">HW fedvények letiltása</string>
   <string name="disable_overlays_summary">Mindig a GPU használata képenyő-frissítéskor</string>
   <string name="enable_traces_title">Nyomkövetés engedélyezése</string>
@@ -2059,21 +2059,21 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
   <string name="enable_traces_summary_none">Jelenleg nincs engedélyezett nyomkövetés</string>
   <string name="enable_traces_summary_num">Jelenleg %1$d engedélyezett nyomkövetés van</string>
   <string name="enable_traces_summary_all">Minden nyomkövetés engedélyezett</string>
-  <string name="enable_opengl_traces_title">OpenGL nyomonkövetés</string>
+  <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
   <string name="debug_layout">Elrendezéshatár mutatása</string>
   <string name="debug_layout_summary">Kliphatárok,margók stb. megjelenítése</string>
   <string name="show_cpu_usage">CPU használat mutatása</string>
   <string name="show_cpu_usage_summary">Képernyőfedvény a jelenlegi CPU-használattal</string>
   <string name="force_hw_ui">GPU megjelenítés</string>
   <string name="force_hw_ui_summary">2D hardvergyorsítás használata az alkalmazásokban</string>
-  <string name="force_msaa">4x MSAA kényszerítése</string>
-  <string name="force_msaa_summary">A 4x MSAA engedélyezése az OpenGL ES 2.0-nál</string>
+  <string name="force_msaa">Force 4x MSAA</string>
+  <string name="force_msaa_summary">Enable 4x MSAA in OpenGL ES 2.0 apps</string>
   <string name="track_frame_time">Profil GPU renderelésből</string>
   <string name="track_frame_time_summary">Renderelési odő mérés ADB shell dumpsys gfxinfoban</string>
   <string name="window_animation_scale_title">Ablakanimáció mérete</string>
   <string name="transition_animation_scale_title">Áttűnési animáció mérete</string>
   <string name="animator_duration_scale_title">Animáció léptéke</string>
-  <string name="overlay_display_devices_title">Másodlagos kijelzők szim.</string>
+  <string name="overlay_display_devices_title">Simulate secondary displays</string>
   <string name="debug_applications_category">Alkalmazások</string>
   <string name="immediately_destroy_activities">"Törölje a tevékenységeket"</string>
   <string name="immediately_destroy_activities_summary">Tevékenységek törlése, amint elhagyják azokat</string>
@@ -2130,18 +2130,18 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
   <string name="data_usage_limit_dialog_mobile">A mobilhálózat adatkapcsolatát a rendszer letiltja a megadott korlát elérésekor.Mivel az adathasználatot a telefon méri, és a szolgáltató mérése eltérhet ettől, célszerű óvatosabb korlátot beállítani.</string>
   <string name="data_usage_restrict_background_title">Korlátozza a háttéradatokat?</string>
   <string name="data_usage_restrict_background">"Ha korlátozza a háttérben zajló mobiladat-forgalmat, néhány alkalmazás és szolgáltatás nem fog működni, ha a Wi-Fi nincs engedélyezve."</string>
-  <string name="data_usage_restrict_background_multiuser">"Ha korlátozza a háttérben futó mobil adatátvitelt, bizonyos alkalmazások és szolgáltatások nem fognak működni, amíg nem kapcsolódik Wi-Fi hálózathoz.
+  <string name="data_usage_restrict_background_multiuser">\"If you restrict background mobile data, some apps and services won\'t work unless you\'re connected to a Wi-Fi network.
 
-Ez a beállítás minden felhasználót érint ezen a telefonon."</string>
+This setting affects all users on this phone.\"</string>
   <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font><font size="12">figyelmeztetés</font></string>
   <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font><font size="12">korlát</font></string>
   <string name="data_usage_uninstalled_apps">Eltávolított alkalmazások</string>
-  <string name="data_usage_uninstalled_apps_users">Eltávolított alkalmazások és felhasználók</string>
+  <string name="data_usage_uninstalled_apps_users">Removed apps and users</string>
   <string name="data_usage_received_sent">%1$s érkezett, %2$s elküldve</string>
   <string name="data_usage_total_during_range">%2$s: kb. %1$s felhasználva</string>
   <string name="data_usage_total_during_range_mobile">"%2$s: kb. %1$s felhasználva a telefon szerint. A szolgáltatói mérés eltérhet ettől."</string>
   <string name="data_usage_metered_title">Mobil hotszpotok</string>
-  <string name="data_usage_metered_body">Válassza ki azokat a Wi-Fi hálózatokat, amelyek mobil hotspotok. A háttérben futó alkalmazásoknál letilthatja az ilyen hálózatok használatát. Az alkalmazások akár értesíthetik is Önt, mielőtt nagyméretű letöltésekre használnák az ilyen hálózatokat.</string>
+  <string name="data_usage_metered_body">Select the Wi-Fi networks which are mobile hotspots. Apps can be restricted from using these networks when in the background. Apps may also warn before using these networks for large downloads.</string>
   <string name="data_usage_metered_mobile">Mobil hálózatok</string>
   <string name="data_usage_metered_wifi">Wi-Fi hálózatok</string>
   <string name="data_usage_metered_wifi_disabled">Mobilhotszpot kiválasztásához kapcsolja be a Wi-Fi-t.</string>
@@ -2176,10 +2176,10 @@ Ez a beállítás minden felhasználót érint ezen a telefonon."</string>
   <string name="vpn_create">VPN-hálózat hozzáadása</string>
   <string name="vpn_menu_edit">Hálózat szerkesztése</string>
   <string name="vpn_menu_delete">Hálózat törlése</string>
-  <string name="vpn_menu_lockdown">Mindig bekapcsolt VPN</string>
-  <string name="vpn_lockdown_summary">Válasszon ki egy VPN-profilt, amelyhez mindig csatlakozni szeretne. A hálózati forgalom csak akkor lesz engedélyezve, ha ehhez a VPN-hez csatlakozik.</string>
+  <string name="vpn_menu_lockdown">Always-on VPN</string>
+  <string name="vpn_lockdown_summary">Select a VPN profile to always remain connected to. Network traffic will only be allowed when connected to this VPN.</string>
   <string name="vpn_lockdown_none">Nincs</string>
-  <string name="vpn_lockdown_config_error">A mindig bekapcsolt VPN-hez a szerver és a DNS IP-címe is szükséges.</string>
+  <string name="vpn_lockdown_config_error">Always-on VPN requires an IP address for both server and DNS.</string>
   <string name="vpn_no_network">Nincs hálózati kapcsolat. Próbálja újra.</string>
   <string name="vpn_missing_cert">Egy tanúsítvány hiányzik. Módosítsa a profilt.</string>
   <string name="trusted_credentials_system_tab">Rendszer</string>
@@ -2197,48 +2197,48 @@ Ez a beállítás minden felhasználót érint ezen a telefonon."</string>
   <string name="backup_pw_set_button_text">Biztonsági jelszó beállítása</string>
   <string name="backup_pw_cancel_button_text">Mégse</string>
   <string name="percentage">%d%%</string>
-  <string name="memory_preferred">Alapértelmezett</string>
-  <string name="default_memory_title">Alapértelmezett memória</string>
-  <string name="phone_memory_title">Telefon memória</string>
+  <string name="memory_preferred">Default Preference</string>
+  <string name="default_memory_title">Default Memory</string>
+  <string name="phone_memory_title">Phone Storage</string>
   <string name="additional_system_update_settings_list_item_title">További rendszerfrissítések</string>
-  <string name="selinux_status_disabled">Letiltva</string>
-  <string name="selinux_status_permissive">Engedélyezve</string>
-  <string name="selinux_status_enforcing">Kényszerítve</string>
+  <string name="selinux_status_disabled">Disabled</string>
+  <string name="selinux_status_permissive">Permissive</string>
+  <string name="selinux_status_enforcing">Enforcing</string>
   <string name="user_settings_title">Felhasználók &amp; korlátozások</string>
-  <string name="user_you_section">Ön</string>
+  <string name="user_you_section">You</string>
   <string name="user_list_title">Felhasználók</string>
   <string name="user_add_user_menu">Új felhasználó</string>
   <string name="user_summary_active">Active</string>
   <string name="user_summary_inactive">Nem aktív</string>
-  <string name="user_summary_not_set_up">Nem beállított</string>
-  <string name="user_owner">Tulajdonos</string>
-  <string name="user_nickname">Becenéz</string>
-  <string name="user_add_user_title">Új felhasználó hozáadása</string>
-  <string name="user_add_user_message_long">"Ezt a készüléket további felhasználókat létrehozva megoszthatja más emberekkel. Minden felhasználó rendelkezik saját térrel, amelyet személyre szabhat saját alkalmazásaival, háttérképével stb. A felhasználók módosíthatják a táblagép olyan beállításait is, amelyek mindenkit érintenek, például a Wi-Fi beállításait.
- 
-Miután létrehoz egy új felhasználót, az adott személynek keresztül kell mennie egy telepítési folyamaton.
- 
-Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az összes többi felhasználó nevében."</string>
-  <string name="user_add_user_message_short">"Miután létrehozott egy új felhasználót, az adott személynek keresztül kell mennie egy telepítési folyamaton.
- 
-Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az összes többi felhasználó nevében."</string>
-  <string name="user_setup_dialog_title">Beállít most egy felhasználót?</string>
-  <string name="user_setup_dialog_message">Győződjön meg arról, hogy a személy hozzá tud férni a táblagéphez, hogy beállíthassa a területét</string>
-  <string name="user_setup_button_setup_now">Beállítás most</string>
-  <string name="user_setup_button_setup_later">Most nem</string>
-  <string name="user_cannot_manage_message">Csak a telefon tulajdonosa kezelheti a felhasználókat.</string>
+  <string name="user_summary_not_set_up">Not set up</string>
+  <string name="user_owner">Owner</string>
+  <string name="user_nickname">Nickname</string>
+  <string name="user_add_user_title">Add new user</string>
+  <string name="user_add_user_message_long">\"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like Wi-Fi that affect everyone.
+
+After you create a new user, that person needs to go through a setup process.
+
+Any user can accept updated app permissions on behalf of all other users.\"</string>
+  <string name="user_add_user_message_short">\"After you create a new user, that person needs to go through a setup process.
+
+Any user can accept updated app permissions on behalf of all other users.\"</string>
+  <string name="user_setup_dialog_title">Set up user now?</string>
+  <string name="user_setup_dialog_message">Make sure the person is available to take the tablet and set up their space</string>
+  <string name="user_setup_button_setup_now">Set up now</string>
+  <string name="user_setup_button_setup_later">Not now</string>
+  <string name="user_cannot_manage_message">"Only the phone's owner can manage users."</string>
   <string name="user_remove_user_menu">Felhasználó törlése</string>
   <string name="user_new_user_name">Új felhasználó</string>
-  <string name="user_confirm_remove_self_title">Törli önmagát?</string>
+  <string name="user_confirm_remove_self_title">Delete yourself?</string>
   <string name="user_confirm_remove_title">Felhasználó eltávolítása</string>
-  <string name="user_confirm_remove_self_message">Az Ön tárhelye és adatai el fognak tűnni a telefonról. Ezt a műveletet nem lehet visszavonni.</string>
+  <string name="user_confirm_remove_self_message">"You will lose your space and data on this phone. You can't undo this action."</string>
   <string name="user_confirm_remove_message">"Eltávoltítja a a felhasználót és az összes hozzá kapcsolódó adatot?"</string>
-  <string name="user_adding_new_user">Új felhasználó hozzáadása...</string>
-  <string name="user_delete_user_description">Felhasználó törlése</string>
-  <string name="user_delete_button">Törlés</string>
-  <string name="global_change_warning">Ez a beállítás minden felhasználót érint ezen a telefonon.</string>
-  <string name="global_locale_change_title">Nyelv módosítása</string>
-  <string name="global_font_change_title">Betűméret módosítása</string>
+  <string name="user_adding_new_user">Adding new user…</string>
+  <string name="user_delete_user_description">Delete user</string>
+  <string name="user_delete_button">Delete</string>
+  <string name="global_change_warning">This setting affects all users on this phone.</string>
+  <string name="global_locale_change_title">Change language</string>
+  <string name="global_font_change_title">Change font size</string>
   <string name="app_notifications_switch_label">Egyedi értesítések</string>
   <string name="help_label">Súgó</string>
   <string name="help_url_wifi"></string>
@@ -2256,8 +2256,8 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
   <string name="help_url_users"></string>
   <string name="help_url_location_access"></string>
   <string name="help_url_security"></string>
-  <string name="user_account_title">Tartalom fiókja</string>
-  <string name="user_picture_title">Fotóazonosító</string>
+  <string name="user_account_title">Account for content</string>
+  <string name="user_picture_title">Photo ID</string>
   <string name="cell_broadcast_settings">Cellán belüli adások</string>
   <string name="cell_broadcast_settings_summary">Válassza ki a megjelenítendő vészriasztások típusait.</string>
   <string name="common_settings_title">KÖZÖS</string>
@@ -2272,127 +2272,127 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
   <string name="battery_style">Electric quantity display</string>
   <string name="voice_call_ringtone_title">Csengőhangok</string>
   <string name="sms_call_ringtone_title">SMS hangok</string>
-  <string name="sim_pin_locked">PIN zárolva</string>
-  <string name="autostarts_title">Automatikusan induló alkalmazások</string>
-  <string name="autostarts_allowed">Engedélyezve</string>
-  <string name="autostarts_prohibited">Tíltva</string>
-  <string name="autostarts_optimized_list">%d a telefon indulásakor engedélyezve</string>
-  <string name="autostarts_prohibited_list">%d a telefon indulásakor letíltva</string>
-  <string name="autostarts_empty_msg">Nincsenek induló alkalmazások telepítve</string>
-  <string name="autostarts_optimize_empty_msg">Az induló alkalmazások nincsenek optimalizálva</string>
-  <string name="autostarts_optimize_btn_title">Induló alkalmazások optimalizálása</string>
-  <string name="autostarts_startup_boot_des">Bootoláskor</string>
-  <string name="autostarts_startup_background_des">Bootolás után</string>
+  <string name="sim_pin_locked">PIN Locked</string>
+  <string name="autostarts_title">Startup apps</string>
+  <string name="autostarts_allowed">Has allowed</string>
+  <string name="autostarts_prohibited">Has Prohibited</string>
+  <string name="autostarts_optimized_list">%d startup apps enabled</string>
+  <string name="autostarts_prohibited_list">%d startup apps disabled</string>
+  <string name="autostarts_empty_msg">No installation startup apps</string>
+  <string name="autostarts_optimize_empty_msg">No optimize the startup apps</string>
+  <string name="autostarts_optimize_btn_title">Optimize the startup apps</string>
+  <string name="autostarts_startup_boot_des">During Startup</string>
+  <string name="autostarts_startup_background_des">After Startup</string>
   <string name="sdcard_storage_title">SD-kártya</string>
-  <string name="usb_storage_title">Belső tárhely</string>
-  <string name="internal_storage_title">Rendszer tárhely</string>
-  <string name="sdcardclean_title">SDkártya felszabadítása</string>
-  <string name="usbclean_title">Belső tárhely felszabadítása</string>
-  <string name="internalclean_title">Rendszer tárhely felszabadítása</string>
-  <string name="memory_others">Egyéb</string>
+  <string name="usb_storage_title">Internal Storage</string>
+  <string name="internal_storage_title">System Space</string>
+  <string name="sdcardclean_title">SDcard Clean</string>
+  <string name="usbclean_title">Internal Storage Clean</string>
+  <string name="internalclean_title">System Space clean</string>
+  <string name="memory_others">Others</string>
   <string name="calculate_size">Méret kiszámítása...</string>
-  <string name="clean_size">Hely felszabadítása...</string>
-  <string name="calculate_size_result">Kiválasztva %s fájl takarításra</string>
-  <string name="clean_all_storage">Helyfelszabadítás kész</string>
-  <string name="clean_add_msg">Takarítás</string>
-  <string name="clean_add_title"> takarítva</string>
-  <string name="clean_remain_summary">Takarításból visszamardt:</string>
-  <string name="clean_calculate_empty_msg">Nem található fájl</string>
+  <string name="clean_size">Cleaning up space...</string>
+  <string name="calculate_size_result">Have selected %s cleanup items</string>
+  <string name="clean_all_storage">All clean</string>
+  <string name="clean_add_msg">clean</string>
+  <string name="clean_add_title"> clean</string>
+  <string name="clean_remain_summary">Clean remain:</string>
+  <string name="clean_calculate_empty_msg">Not found files of cleanup</string>
   <string name="clean_app_cache_summary">Cache:</string>
-  <string name="clean_clear_complete_title">Takarítás befejezve</string>
-  <string name="clean_clear_complete_summary2">hely</string>
+  <string name="clean_clear_complete_title">Clean completed</string>
+  <string name="clean_clear_complete_summary2">space</string>
   <string name="clean_calculate_size_title">Jelenleg rendelkezésre álló hely</string>
   <string name="size_used">Felhasznált</string>
   <string name="size_available">Szabad</string>
-  <string name="calculate_size_complete">Van felszabadítani való terület </string>
-  <string name="calculate_size_stop">A kiszámított törölve lett</string>
-  <string name="calculate_size_stop_result">Találtam %s helyet</string>
-  <string name="calculate_size_error">Sajnálom, ez nem jó</string>
-  <string name="clean_size_not_complete">A takarítás nincsen befelyezve,próbálkozzon később</string>
-  <string name="clean_size_complete">A takarítás befelyeződött</string>
-  <string name="clean_size_result">Felszabadítva %s.</string>
-  <string name="clean_data_dropbox_folder_name">Rendszer cache</string>
-  <string name="clean_data_clipboard_data_name">Vágólap adatok</string>
-  <string name="clean_btn_caculate_stop_summary">Kalkulálás megszakítása</string>
-  <string name="clean_btn_cleanup_all_summary">Mind törlése</string>
-  <string name="clean_btn_cleanup_stop_summary">Takarítás leállítása</string>
-  <string name="clean_btn_caculate_continue_summary">Számítás folytatása</string>
-  <string name="clean_btn_cleanup_again_summary">Újra takarít</string>
-  <string name="clean_btn_return_summary">Vissza</string>
-  <string name="clean_btn_confirm_summary">Megerősít</string>
-  <string name="clean_btn_complete_summary">Befelyezve</string>
-  <string name="clean_empty_folder_summary">Könyvtárak száma:</string>
-  <string name="clean_storage_available_size">%s heléy felszabadítva</string>
-  <string name="clean_list_top_not_clean_summary">Fájlok nem kerültek törlésre</string>
-  <string name="clean_data_cleaning_summary">Takarítás...</string>
-  <string name="clean_btn_cleanup_part_summary">Takarítás</string>
-  <string name="clean_clipboard_data_summary">Vágólap adatok：</string>
-  <string name="clean_picture_thumbnail_summary">Képek elölnézete:</string>
+  <string name="calculate_size_complete">Found clean up space </string>
+  <string name="calculate_size_stop">Caculate is terminated</string>
+  <string name="calculate_size_stop_result">Has detected %s space</string>
+  <string name="calculate_size_error">Sorry, It is wrong!</string>
+  <string name="clean_size_not_complete">Cleanup is not complete, please try again later</string>
+  <string name="clean_size_complete">Cleanup is complete!</string>
+  <string name="clean_size_result">Releasing a total of %s space</string>
+  <string name="clean_data_dropbox_folder_name">System cache files</string>
+  <string name="clean_data_clipboard_data_name">Clipboard data</string>
+  <string name="clean_btn_caculate_stop_summary">Stop caculate</string>
+  <string name="clean_btn_cleanup_all_summary">Cleanup all</string>
+  <string name="clean_btn_cleanup_stop_summary">Stop cleanup</string>
+  <string name="clean_btn_caculate_continue_summary">Caculate continue</string>
+  <string name="clean_btn_cleanup_again_summary">CLeanup again</string>
+  <string name="clean_btn_return_summary">Return</string>
+  <string name="clean_btn_confirm_summary">Confirm</string>
+  <string name="clean_btn_complete_summary">Finish</string>
+  <string name="clean_empty_folder_summary">Folder count:</string>
+  <string name="clean_storage_available_size">%s the current free space</string>
+  <string name="clean_list_top_not_clean_summary">Files not cleanup</string>
+  <string name="clean_data_cleaning_summary">Cleaning...</string>
+  <string name="clean_btn_cleanup_part_summary">Cleanup</string>
+  <string name="clean_clipboard_data_summary">Clipboard data：</string>
+  <string name="clean_picture_thumbnail_summary">Picture thumbnails:</string>
   <string name="clean_log_summary">Log:</string>
-  <string name="clean_system_cache_file">Rendszer gyorsítótára:</string>
-  <string name="clean_calculate_complete_result">%1$s szabad hely lesz takarítás után %2$s</string>
-  <string name="storage_install_app_sdcard_summary">(Néhány alkalmazás nemtámogatja</string>
+  <string name="clean_system_cache_file">System cache:</string>
+  <string name="clean_calculate_complete_result">%1$s free space after the cleanup is expected to %2$s</string>
+  <string name="storage_install_app_sdcard_summary">(Some apps do not support)</string>
   <string name="gsm_umts_network_preferences_default_values">0</string>
-  <string name="notify_dialog_message">Újraindítás szükséges, hogy a változtatások érvénybe lépjenek. Újraindításmost?</string>
-  <string name="sim_setting_guide_continue">Folytatás</string>
-  <string name="sim_setting_guide_cancel">Mégsem</string>
+  <string name="notify_dialog_message">Reboot is required for the change to take effect. Reboot now?</string>
+  <string name="sim_setting_guide_continue">Continue</string>
+  <string name="sim_setting_guide_cancel">Cancel</string>
   <string name="ring_title">Csöng(hívás, üzenet, értesítés)</string>
-  <string name="labi_sync_title">Szink. partnerek</string>
+  <string name="labi_sync_title">Sync Contact</string>
   <string name="labi_sync_summary">Sync Contact to Labi</string>
-  <string name="labi_recovery_title">Partnerek visszaállítása</string>
+  <string name="labi_recovery_title">Recover Contact</string>
   <string name="labi_recovery_summary">Recover Contact from Labi</string>
-  <string name="account_settings_title">Fiókok</string>
-  <string name="account_manage_title">A fiók jelszavának megváltoztatása</string>
-  <string name="account_info_change">A fiók adatainak amegváltoztatása</string>
+  <string name="account_settings_title">Account Settings</string>
+  <string name="account_manage_title">Modify account password</string>
+  <string name="account_info_change">Modify account information</string>
   <string name="ACCOUNT_LABEL">Lewa Pond</string>
   <string name="lewa_account">Lewa Account</string>
-  <string name="dialog_already_registered">Már be van jelentkezva,hamásik azonosítóval szeretne bejelentkezni,először kikelljelentkeznie</string>
-  <string name="haptic_feedback_enable_summary">Érintéskor rezegjen</string>
+  <string name="dialog_already_registered">You have already signed in. If you want use another ID, please sign out first</string>
+  <string name="haptic_feedback_enable_summary">Vibrates when press the bottom of the screen key</string>
   <string name="key_label">Gomb</string>
   <string name="keyboard_lights_title">Gomnok világítása</string>
-  <string name="keyboard_lights_summary">A képernyő alatti gombok világítása</string>
-  <string name="keyboard_auto_lights_title">A billentyűzet automatikus világítása</string>
-  <string name="keyboard_auto_lights_summary">Az alsó gombsor világítása automatikusan van beállítva</string>
+  <string name="keyboard_lights_summary">The bottom of the screen button indicating lamp</string>
+  <string name="keyboard_auto_lights_title">Keyboard auto lights</string>
+  <string name="keyboard_auto_lights_summary">The bottom of the screen button indicating lamp auto brightness</string>
   <string name="volume_key_title">Hangerő gomb</string>
   <string name="volume_wake_title">Volume wake</string>
-  <string name="volume_wake_summary">A hangerőgombok felébresztik a telefont</string>
-  <string name="volume_music_controls_title">A telefon felébresztése neélkül lehet a hangerőt állítani</string>
-  <string name="volume_music_controls_summary">A gomb hosszú lenyomásával a következő számra ugrik. Zenelejátszás közben nem fogja felébreszteni aképernyőt</string>
+  <string name="volume_wake_summary">Tapping the volume keys while your phone is off will turn the screen on.</string>
+  <string name="volume_music_controls_title">Screen Off Volume music controls</string>
+  <string name="volume_music_controls_summary">Long press volume buttons to skip tracks while screen is off. Volume wake will not work when music is playing.</string>
   <string name="back_key_title">Vissza gomb</string>
-  <string name="back_to_kill_title">A visszagomb folyamatos nyomására bezárja afutó programot</string>
-  <string name="back_to_kill_summary">A visszagomb folyamatos nyomására bezárja afutó programot</string>
-  <string name="phone_inUse">Telefonbeszélgetés alatt nemlehet a repülőgép üzemmódot bekapcsolni</string>
-  <string name="voice_call_alarm_description">Hanghívás</string>
-  <string name="wifi_p2p_dialog_title">Lecsatlakozás</string>
-  <string name="wifi_p2p_dialog_message">Valóban le akar csatlakozni?</string>
-  <string name="setting_info_empty_text">Nem</string>
+  <string name="back_to_kill_title">Hold back to kill</string>
+  <string name="back_to_kill_summary">Holding back will kill the current activity</string>
+  <string name="phone_inUse">Phone is on a call, you can not switch to airplane mode</string>
+  <string name="voice_call_alarm_description">Call(Voice Call)</string>
+  <string name="wifi_p2p_dialog_title">Disconnect</string>
+  <string name="wifi_p2p_dialog_message">Do you want to disconnect ?</string>
+  <string name="setting_info_empty_text">No</string>
   <string name="display_category_animation_options_title">Animáció</string>
   <string name="display_electron_beam_animation_on_title">Kijelző bekapcsolás animáció</string>
   <string name="display_electron_beam_animation_off_title">Kijelző kikapcsolás animáció</string>
-  <string name="gemini_dualsim_switch_settings_title">Hívási beállítások</string>
-  <string name="gemini_dualsim_switch_title">Húzza el telefonáláshoz vagy sms küldéséhez</string>
-  <string name="gemini_dualsim_switch_summary">Húzza el telefonáláshoz vagy sms küldéséhez</string>
+  <string name="gemini_dualsim_switch_settings_title">Dial setting</string>
+  <string name="gemini_dualsim_switch_title">Slide to dial/send sms</string>
+  <string name="gemini_dualsim_switch_summary">Slide to dial/send sms</string>
   <string name="debug_log">Hibajelentés</string>
   <string name="upload_debug_log_title">Hibajelentés feltöltése</string>
   <string name="upload_debug_log_summary">Hibajelentés feltöltése csak akkor, ha a Wi-Fi kapcsolat rendelkezésre áll.</string>
-  <string name="proximity_title">Közelségérzékelő beállítása</string>
+  <string name="proximity_title">Calibrate Proximity Sensor</string>
   <string name="proximity_dialog_title">Calibrate Hint</string>
-  <string name="proximity_summary">Ne tegyen a szenzor 20 cm-es körzetébe semmit és nem tegye ki erős napfény hatásának</string>
-  <string name="proximity_msg_sucess">Beállítás rendben</string>
-  <string name="proximity_msg_failed">A beállítás nem sikerült</string>
+  <string name="proximity_summary">Please keep unblocked by anything in the 20cm sensing range, and avoid radiated by sunlight !</string>
+  <string name="proximity_msg_sucess">Calibrate OK!</string>
+  <string name="proximity_msg_failed">Calibrate FAILED!</string>
   <string name="proximity_calib_ok">OK</string>
-  <string name="proximity_calib_failed">Sikertelen</string>
+  <string name="proximity_calib_failed">FAILED</string>
   <string name="sync_settings">Fiókok és szinkronizálás</string>
   <string name="silent_mode_title">Néma üzemmód</string>
   <string name="device_lewa_version">"System Version： "</string>
   <string name="device_cpu">"CPU:"</string>
   <string name="device_memory">"RAM:"</string>
-  <string name="device_system_memory">"Rendszer Memory： "</string>
+  <string name="device_system_memory">"System Memory： "</string>
   <string name="internal_memory_available">"Internal Memory： "</string>
   <string name="sdcard_available">"SD Card： "</string>
-  <string name="system_tutorial_list_item_title">Rendszer ismertetése</string>
-  <string name="system_tutorial_list_item_summary">A telefon használatáról</string>
-  <string name="root_title">Biztonsági program</string>
+  <string name="system_tutorial_list_item_title">System tutorial</string>
+  <string name="system_tutorial_list_item_summary">Learn how to use your phone</string>
+  <string name="root_title">Secure Manager</string>
   <string name="root_access">Root hozzáférés</string>
   <string name="root_access_warning_title">Root hozzáférés engedélyezése</string>
   <string name="root_access_warning_message">Veszélyes dolog root jogosultságot adni az alkalmazásoknak és veszélyeztetheti a rendszert!</string>
@@ -2400,8 +2400,8 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
   <string name="root_access_apps">Csak alkalmazások</string>
   <string name="root_access_adb">Csak ADB</string>
   <string name="root_access_all">Alkalmazások és ADB</string>
-  <string name="media_volume_description">Media(Zene、Videó、Játék stb)</string>
-  <string name="system_volume_description">Rendszer(Fényképek、Képernyőképek、ButtonClick)</string>
+  <string name="media_volume_description">Media(Music、Video、Game etc)</string>
+  <string name="system_volume_description">System(Photograph、Screenshot、ButtonClick)</string>
   <string name="sim_china_mobile_short">CMCC</string>
   <string name="sim_china_telecom_short">CTCC</string>
   <string name="sim_china_unicom_short">CUCC</string>
@@ -2420,7 +2420,7 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
 
  WCDMA
 \"</string>
-  <string name="unlock_set_unlock_none_title_lewa">lewa zárképernyő</string>
+  <string name="unlock_set_unlock_none_title_lewa">lewa lockscreen</string>
   <string name="double_card_setting_title">Welcome to fast model</string>
   <string name="double_card_setting_msg">Only three setps,give you power feeling</string>
   <string name="start_setting">Start</string>
@@ -2429,11 +2429,11 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
   <string name="next_setp">Következő lépés</string>
   <string name="use_for_send_msg">Üzenet küldése</string>
   <string name="no_change_favorite">Never change your favorite</string>
-  <string name="use_for_call">Hívás indítása</string>
+  <string name="use_for_call">Make call</string>
   <string name="no_change_style">Never change your style</string>
   <string name="use_for_internet">For internet</string>
-  <string name="use_phone_efficient">Használja a telefonját hatékonyan</string>
-  <string name="guide_complete">Kész!</string>
+  <string name="use_phone_efficient">Make your phone efficient</string>
+  <string name="guide_complete">Complete!</string>
   <string name="dial_slide_hint_msg">Through sliding to change card</string>
   <string name="msg_slide_hint_msg">Through sliding to change card</string>
   <string name="try_title">Have a try</string>
@@ -2443,35 +2443,35 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
   <string name="remeber_tail">also sliding to left side</string>
   <string name="default_gprs_title">Select default sim card for Gprs</string>
   <string name="could_modify_in_simmanagement">Can modify in Sim Management</string>
-  <string name="location_access_title">Hozzáférés a saját pozícióhoz</string>
-  <string name="location_access_summary">Engedélyezze az engedélyt kérő alkalmazásoknak a helyadatok használatát</string>
-  <string name="location_sources_heading">Forráshelyek</string>
-  <string name="rom_size_title">"Telefonmemória： "</string>
-  <string name="rom_size_default">\"%1$s （Elérhető）
-%2$s （Teljes）\"</string>
+  <string name="location_access_title">Access to my location</string>
+  <string name="location_access_summary">Let apps that have asked your permission use your location information</string>
+  <string name="location_sources_heading">Location sources</string>
+  <string name="rom_size_title">"Phone Storage： "</string>
+  <string name="rom_size_default">\"%1$s （Available）
+%2$s （Total）\"</string>
   <string name="g_sensor_calibration_title">G-szenzor beállításai</string>
-  <string name="proximity_sensor_calibration_title">Proximity Szenzor beállítássa</string>
-  <string name="proximity_sensor_calibration_message">Ügyeljen arra, hogy azérzékelő ne legyen letakarva</string>
-  <string name="agreement_title">Szolgáltatási szerződés</string>
-  <string name="nightmodecolor_title">Éjszakai mód színei</string>
+  <string name="proximity_sensor_calibration_title">Proximity Sensor Calibration</string>
+  <string name="proximity_sensor_calibration_message">Please ensure that close sensors were not keep out.</string>
+  <string name="agreement_title">Service agreement</string>
+  <string name="nightmodecolor_title">Night Mode Color</string>
   <string name="summary_nightmode_value">%1$s</string>
   <string name="inadvertmode_title">Prevent misoperation</string>
   <string name="inadvertmode_msg">Prevent misoperation while phone is in pocket</string>
-  <string name="sim_settings_guide_editname_title">Dupla kártya beállítás varázsló</string>
-  <string name="sim_settings_guide_voicesms_title">Hívások és üzenetek</string>
-  <string name="sim_settings_guide_data_title">Internet és adatforgalom beállítás</string>
-  <string name="sim_settings_guide_datasave_title">Adatforgalom beállítása</string>
+  <string name="sim_settings_guide_editname_title">Dual card setup wizard</string>
+  <string name="sim_settings_guide_voicesms_title">Calling and Messaging</string>
+  <string name="sim_settings_guide_data_title">Internet and traffic protection</string>
+  <string name="sim_settings_guide_datasave_title">Traffic protection</string>
   <string name="sim_settings_guide_video_title">Videó hívás</string>
-  <string name="sim_settings_guide_fastmode_title">Gyors beállítások varázsló</string>
-  <string name="sim_settings_data_usage_title">Adatforgalmi csomagok</string>
-  <string name="sim_settings_data_usage_hint_text">Kérem, adjameg a csomagot</string>
+  <string name="sim_settings_guide_fastmode_title">Fast Mode Wizard</string>
+  <string name="sim_settings_data_usage_title">Traffic packages</string>
+  <string name="sim_settings_data_usage_hint_text">Please enter the package</string>
   <string name="sim_settings_data_usage_mb_size">MB/Month</string>
-  <string name="sim_settings_data_usage_dont_care"><u>Nem tudom,később megadom</u></string>
+  <string name="sim_settings_data_usage_dont_care"><u>I do not know, texting later</u></string>
   <string name="sim_settings_data_switch">Using data traffic</string>
-  <string name="sim_settings_guide_editname_summary">A SIM kártyák nevének beállítása</string>
-  <string name="sim_settings_guide_voicesms_summary">A gyakrabban használt kártyát használja alapértelmezettként telefonálásra és üzenetküldésre</string>
-  <string name="sim_settings_guide_data_summary">Az alapértelmezett kártyára állítsa be az adatforgalmikorlátot,így a telefon tudja figyelmeztetni, ha eléri a határt.</string>
-  <string name="sim_settings_guide_datasave_summary">Amíg nem állítja be az adatforgalom maximális határát,addig a telefon nemtudja ellenőrizni az adatforgalom mennyiségét,és ha túllépi a keretét a szolgáltatója külön díjat számíthat fel.</string>
-  <string name="sim_settings_guide_video_summary">Válassza a 3G-s kártyáját az alapértelmezett videóhívásokhoz</string>
-  <string name="sim_settings_guide_fastmode_summary">Tapasztalja meg a gyors hívást és üzenetküldést</string>
+  <string name="sim_settings_guide_editname_summary">Change name to distinguish dual card</string>
+  <string name="sim_settings_guide_voicesms_summary">Select frequently used phone card as the default call and send message</string>
+  <string name="sim_settings_guide_data_summary">Select the default data card, and recommended to set the phone card traffic packages. when it reaches the warning value, they will remind you to avoid the extra cost</string>
+  <string name="sim_settings_guide_datasave_summary">If you have not yet handle flow of packages, the proposed closure of the data traffic. Otherwise, the excess data traffic, operators may charge an additional fee</string>
+  <string name="sim_settings_guide_video_summary">Choose to support 3G business phone card phone card as the default video phone</string>
+  <string name="sim_settings_guide_fastmode_summary">Experience the fast dialing and sending message</string>
 </resources>

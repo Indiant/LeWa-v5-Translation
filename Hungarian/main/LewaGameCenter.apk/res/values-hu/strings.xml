@@ -12,7 +12,7 @@
   <string name="load_tip">Betöltés...</string>
   <string name="topic_review">Téma áttekintése</string>
   <string name="share_title">Megosztom Barátaimmal</string>
-  <string name="share_content">Találtam egy nagyon jó játékot, a játékközpontban\"%1$s\", Csatlakozz most~%2$s</string>
+  <string name="share_content">Találtam egy nagyon jó játékot, a játékközpontban\"%1$s\", Catlakozz most~%2$s</string>
   <string name="clear_search_history">előzmények törlése</string>
   <string name="message_loading_app_to_share">Betöltés, megosztás később~</string>
   <string name="message_get_app_fail_to_share">A játék nem sikerült megosztani~</string>
@@ -33,9 +33,8 @@
   <string name="message_open_app_fail">A játékot nem lehet elindítani-_-!</string>
   <string name="noti_install_app_fail">Telepítés nem sikerült, távolítsa el az előző verziót</string>
   <string name="noti_install_app_fail_invalid_apk">A telepítés nem sikerült, apk hiba</string>
-  <string name="noti_install_failed_container_error">Telepítés sikertelen, ez a játék csak az sd-kártyára telepíthető</string>
   <string name="noti_install_app_fail_insufficient_storage">Telepítés nem sikerült, nincs elég hely az sd-kártyán</string>
-  <string name="noti_install_app_fail_no_file">Telepítés sikertelen, apk nem létezik</string>
+  <string name="noti_install_app_fail_no_file">Telepítése sikertelen, apk nem létezik</string>
   <string name="noti_install_app_installing">Telepítés</string>
   <string name="noti_install_app_begin">Telepítése megkezdése</string>
   <string name="noti_title_install_app_success"> Telepítve</string>
@@ -68,14 +67,6 @@
   <string name="message_pause_error">Szüneteltetési Hiba-_-!</string>
   <string name="message_resume_error">Folytatási hiba-_-!</string>
   <string name="update_all">Összes frissítése</string>
-  <string name="menu_setting">Beállítások</string>
-  <string name="setting_key_delete_apk">delete_apk</string>
-  <string name="setting_key_update_noti">update_noti</string>
-  <string name="setting_key_auto_update">auto_update</string>
-  <string name="setting_delete_apk">Sikeres telepítés után törölje az apk-t</string>
-  <string name="setting_update_notification">Értesítés a játékfrissítésről</string>
-  <string name="setting_auto_update">Automatikus frissítés</string>
-  <string name="setting_auto_update_summary">auto update when wifi is connected</string>
   <string name="drop_down_list_header_default_text">Kattinton ide a frissítéshez…</string>
   <string name="drop_down_list_header_pull_text">Dobdja le a frissítéshez…</string>
   <string name="drop_down_list_header_release_text">Frissíthető…</string>
