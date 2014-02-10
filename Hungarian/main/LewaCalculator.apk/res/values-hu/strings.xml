@@ -38,4 +38,5 @@
   <string name="goback">Vissza</string>
   <string name="advance">Haladó</string>
   <string name="history">Előzmények</string>
+  <string name="clear_history_text">clear</string>
 </resources>
