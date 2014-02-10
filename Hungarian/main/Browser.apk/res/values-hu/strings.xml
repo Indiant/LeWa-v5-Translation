@@ -426,8 +426,8 @@
   <string name="accessibility_button_more">További beállítások</string>
   <string name="accessibility_state_incognito">Inkognitóoldal</string>
   <string name="accessibility_state_frozen">Mentett oldal</string>
-  <string name="accessibility_button_bookmarks_folder_up">Previous folder</string>
-  <string name="notification_permissions_prompt_message">Allow %s to show notifications</string>
+  <string name="accessibility_button_bookmarks_folder_up">Előző könyvtár</string>
+  <string name="notification_permissions_prompt_message">Hagyja %s az értesítések mutatását</string>
   <string name="notification_permissions_prompt_allow">Engedélyezés</string>
   <string name="notification_permissions_prompt_deny">Tiltás</string>
   <string name="notification_permissions_prompt_remember">A beállítás megjegyzése</string>
