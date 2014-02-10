@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="picasa_upload">Picasa Feltöltő</string>
+    <string name="share_to_picasa">Picasa</string>
     <string name="picasa_title_for_single">Fotó/videó feltöltése</string>
     <string name="picasa_title_for_multiple">%d fotó/videó feltöltése</string>
     <string name="picasa_upload_caption">Képaláírás</string>
     <string name="picasa_upload_account">Fiók</string>
     <string name="picasa_upload_album">Album</string>
     <string name="picasa_upload_upload">Feltöltés</string>
+    <string name="picasa_upload_prepare">Előkészül a Picasa-ra feltöltéshez…</string>
     <string name="picasa_upload_uploading_to">%d feltöltése a Picasára</string>
     <string name="picasa_upload_done">A feltöltések befejeződtek</string>
     <string name="picasa_upload_add_account">Fotók/videók feltöltéséhez be kell jelentkeznie Google Fiókjába.</string>
     <string name="picasa_upload_upload_start">Feltöltés megkezdése a Picasára.</string>
     <string name="picasa_upload_account_error">Nem sikerült lekérni a fiókadatokat.</string>
     <string name="picasa_upload_get_album_list_error">Az albumlista betöltése nem sikerült.</string>
+    <string name="picasa_upload_get_album_list_error_no_network">Az albumlista betöltése nem sikerült. Ellenőrizze a kapcsolatot.</string>
     <string name="picasa_upload_toast_no_file_to_upload">Nincs feltöltendő fájl.</string>
     <string name="picasa_upload_paused_network">Várakozás a hálózatra.</string>
     <string name="picasa_upload_paused_server_error">Szerverhiba. Újrapróbálkozás hamarosan.</string>
@@ -27,6 +31,8 @@
     <string name="picasa_upload_state_invalid_metadata">Érvénytelen kérés</string>
     <string name="picasa_upload_state_duplicate">Másodpéldány</string>
     <string name="picasa_upload_state_cancelling">Megszakítás...</string>
+    <string name="picasa_upload_state_missing_file">Hiányzó fájl</string>
+    <string name="picasa_upload_state_empty" />
     <string name="picasa_upload_actionbar_tab_active_uploads">Aktív feltöltések</string>
     <string name="picasa_upload_actionbar_tab_history">Előzmények</string>
     <string name="new_album_dialog_title">Album létrehozása</string>
@@ -37,5 +43,13 @@
     <string name="cancel">Mégse</string>
     <string name="creating_album">Album létrehozása...</string>
     <string name="creating_album_failed">Hiba történt az album létrehozásakor.</string>
+    <string name="creating_album_failed_no_network">Hiba történt az album létrehozásakor. Ellenőrizze a kapcsolatot.</string>
     <string name="creating_album_done">A(z) \"%1$s\" album elkészült.</string>
+    <string name="reupload">"'%1$s' újrafeltöltése."</string>
+    <string name="no_active_upload">Nincs aktív feltöltés.</string>
+    <string name="no_history">Feltöltési előzmény üres.</string>
+    <string name="network_error">Nincs kapcsolat</string>
+    <string name="retry">Újra</string>
+    <string name="reload_albums">Albumok újratöltése…</string>
+    <string name="connectivity_is_back">A kapcsolat helyreállt.</string>
 </resources>
