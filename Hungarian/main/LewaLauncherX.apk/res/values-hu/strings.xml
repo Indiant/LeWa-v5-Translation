@@ -26,6 +26,7 @@
     <string name="clean_toast_str0">Optimalizálás a legjobb</string>
     <string name="clean_toast_str1">"Sikeresen felszabadítva %1$d M memória
 Jelenleg elérhető memória %2$d M"</string>
+    <string name="config_workspaceDefaultTransitionEffect">Standard</string>
     <string name="application_name">Indító</string>
     <string name="folder_name">Névtelen mappa</string>
     <string name="chooser_wallpaper">Háttérkép kiválasztása innen</string>
@@ -33,6 +34,8 @@ Jelenleg elérhető memória %2$d M"</string>
     <string name="pick_wallpaper">Háttérképek</string>
     <string name="activity_not_found">"Az alkalmazás nincs telepítve."</string>
     <string name="widgets_tab_label">Modulok</string>
+    <string name="widget_dims_format">%1$d x %2$d</string>
+    <string name="external_drop_widget_pick_format">%1$s (%2$d x %3$d)</string>
     <string name="rename_folder_title">Mappa átnevezése</string>
     <string name="group_applications">Alkalmazások</string>
     <string name="group_shortcuts">Parancsikonok</string>
@@ -102,6 +105,11 @@ Jelenleg elérhető memória %2$d M"</string>
     <string name="shortcut_contacts">Névjegyek</string>
     <string name="shortcut_browser">Böngésző</string>
     <string name="shortcut_messaging">Üzenetek</string>
+    <string name="phone_intent">\#Intent;action=android.intent.action.DIAL;launchFlags=0x10000000;end</string>
+    <string name="contacts_intent">content://com.android.contacts/contacts#Intent;action=android.intent.action.VIEW;launchFlags=0x10000000;end</string>
+    <string name="browser_intent">http://www.google.com#Intent;action=android.intent.action.VIEW;launchFlags=0x10000000;end</string>
+    <string name="messaging_intent">\#Intent;action=android.intent.action.MAIN;type=vnd.android-dir/mms-sms;launchFlags=0x10000000;end</string>
+    <string name="lewabbs_intent">http://bbs.lewaos.com/forum.php?mobile=yes#Intent;action=android.intent.action.VIEW;end</string>
     <string name="loading_prompt">Töltés...</string>
     <string name="uninstall_system_app_text">Rendszeralkalmazást nem lehetséges törölni.</string>
     <string name="uninstall_widget_text">Modult nem lehetséges törölni.</string>
