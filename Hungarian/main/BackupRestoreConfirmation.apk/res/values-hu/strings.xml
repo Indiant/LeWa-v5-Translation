@@ -2,14 +2,14 @@
 <resources>
   <string name="backup_confirm_title">Teljes biztonsági mentés</string>
   <string name="restore_confirm_title">Teljes helyreállítás</string>
-  <string name="backup_confirm_text">\"Kérés érkezett az összes adat biztonsági mentésére egy csatlakoztatott asztali számítógépre. Engedélyezi, hogy ez megtörténjen?
+  <string name="backup_confirm_text">"Kérés érkezett az összes adat biztonsági mentésére egy csatlakoztatott asztali számítógépre. Engedélyezi, hogy ez megtörténjen?
 
-Ha nem Ön kérte a mentést, ne engedélyezze a művelet folytatását.\"</string>
+Ha nem Ön kérte a mentést, ne engedélyezze a művelet folytatását."</string>
   <string name="allow_backup_button_label">Adatok biztonsági mentése</string>
   <string name="deny_backup_button_label">Ne mentsen</string>
-  <string name="restore_confirm_text">\"Kérés érkezett egy csatlakoztatott asztali számítógép összes adatának teljes helyreállítására. Engedélyezi, hogy ez megtörténjen?
+  <string name="restore_confirm_text">"Kérés érkezett egy csatlakoztatott asztali számítógép összes adatának teljes helyreállítására. Engedélyezi, hogy ez megtörténjen?
 
-Ha nem Ön kérte a visszaállítást, ne engedélyezze a művelet folytatását. Ez az eszközön lévő összes jelenlegi adatot felülírja!\"</string>
+Ha nem Ön kérte a visszaállítást, ne engedélyezze a művelet folytatását. Ez az eszközön lévő összes jelenlegi adatot felülírja!"</string>
   <string name="allow_restore_button_label">Adatok visszaállítása</string>
   <string name="deny_restore_button_label">Ne állítsa vissza</string>
   <string name="current_password_text">Kérjük, adja meg a jelenlegi biztonsági jelszót alább:</string>

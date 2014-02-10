@@ -53,7 +53,7 @@
   <string name="information">Információk</string>
   <string name="gps_test">GPS Teszt</string>
   <string name="nmea_log">NMEA Log</string>
-  <string name="nmea_start">start</string>
+  <string name="nmea_start">indít</string>
   <string name="nmea_stop">állj</string>
   <string name="nmea_clear">clear</string>
   <string name="nmea_save">save</string>
@@ -66,7 +66,7 @@
   <string name="need_3d_fix">Szükséges 3D Fix</string>
   <string name="last_ttff">Utolsó TTFF:</string>
   <string name="reconnect_countdown">Újracsatlakozás visszaszámlálás:</string>
-  <string name="gps_test_stop">Stop</string>
+  <string name="gps_test_stop">Állj</string>
   <string name="gps_test_mean_ttff">Átlag TTFF:</string>
   <string name="nmea_dbg_dbg">Nedves</string>
   <string name="nmea_dbg_nmea">Nedves</string>

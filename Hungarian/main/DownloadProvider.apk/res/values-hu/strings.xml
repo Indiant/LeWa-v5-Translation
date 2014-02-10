@@ -28,13 +28,13 @@
   <string name="notification_need_wifi_for_size">A letöltéshez Wi-Fi kell</string>
   <string name="notification_paused_in_background">Szünetel a háttérben</string>
   <string name="wifi_required_title">A letöltés túl nagy a mobil hálózathoz</string>
-  <string name="wifi_required_body" formatted="false">\"Wi-Fit kell használnia a letöltéshez (%s ). 
+  <string name="wifi_required_body" formatted="false">"Wi-Fit kell használnia a letöltéshez (%s ). 
 
-Nyomja a \"Várólosta\" gombot, hogy akkor kezdje a letöltést, amikor legközelebb Wi-Fi hálózathoz kapcsolódik.</string>
+Nyomja a "Várólosta" gombot, hogy akkor kezdje a letöltést, amikor legközelebb Wi-Fi hálózathoz kapcsolódik.</string>
   <string name="wifi_recommended_title">A fájl túl nagy (%s)</string>
-  <string name="wifi_recommended_body" formatted="false">\"A letöltés azonnali elkezdése meríti a telepet és/vagy túlzottan igénybe veheti a mobil adatkapcsolatot, amely az Ön adatcsomagjától függően költségeket jelenthet.	
+  <string name="wifi_recommended_body" formatted="false">"A letöltés azonnali elkezdése meríti a telepet és/vagy túlzottan igénybe veheti a mobil adatkapcsolatot, amely az Ön adatcsomagjától függően költségeket jelenthet.	
 
-Kattintson a %s  gombra, hogy a letöltést akkor kezdje, ha legközelebb Wi-Fi hálózathoz csatlakozik.\"</string>
+Kattintson a %s  gombra, hogy a letöltést akkor kezdje, ha legközelebb Wi-Fi hálózathoz csatlakozik."</string>
   <string name="button_queue_for_wifi">Várólista</string>
   <string name="button_cancel_download">Mégsem</string>
   <string name="button_start_now">Indítás most</string>

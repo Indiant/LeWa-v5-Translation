@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="NPIMCONTACTS">
+        <item quantity="other">Itt van %d barát</item>
+    </plurals>
+    <plurals name="NFRIENDS">
+        <item quantity="other">%d barát</item>
+    </plurals>
+</resources>

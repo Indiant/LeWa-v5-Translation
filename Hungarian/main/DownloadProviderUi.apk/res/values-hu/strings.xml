@@ -69,27 +69,27 @@
   <string name="only_wifi_summary">adat mentés</string>
   <string name="download_remind_title">2G/3G hálózati tippek</string>
   <string name="close_mobile_dialog_title">Tippek</string>
-  <string name="close_mobile_dialog_content">\"Ha bezárja az emlékeztetőket, nem fog tippeket látni, ha mobil adat hálózaton tölt le és ez megemelheti a telefonköltségeket.
+  <string name="close_mobile_dialog_content">"Ha bezárja az emlékeztetőket, nem fog tippeket látni, ha mobil adat hálózaton tölt le és ez megemelheti a telefonköltségeket.
 
-Biztos, hogy bezárja a 2G/3G hálózati letöltés emlékeztetőt?\"</string>
+Biztos, hogy bezárja a 2G/3G hálózati letöltés emlékeztetőt?"</string>
   <string name="close_mobile_dialog_positive">OK</string>
   <string name="close_mobile_dialog_negative">Mégsem</string>
   <string name="download_dialog_title">letöltési tippek</string>
-  <string name="mobile_dialog_content_prefix">\"Biztos, hogy mobil hálózaton tölt le:
-\"</string>
-  <string name="mobile_dialog_content_suffix">\"
-megemeli a telefonszámláját\"</string>
+  <string name="mobile_dialog_content_prefix">"Biztos, hogy mobil hálózaton tölt le:
+"</string>
+  <string name="mobile_dialog_content_suffix">"
+megemeli a telefonszámláját"</string>
   <string name="mobile_dialog_positive">letöltés</string>
   <string name="mobile_dialog_negative">wifi kapcsolódás és letöltés</string>
-  <string name="wifi_dialog_content">\"Önnek folyamatban lévő kizárólag Wi-Fi kapcsolaton keresztüli letöltése van, ha el szeretné kezdeni a letöltést, be kell fejeznie a csak Wi-Fi-n keresztüli letöltést.
+  <string name="wifi_dialog_content">"Önnek folyamatban lévő kizárólag Wi-Fi kapcsolaton keresztüli letöltése van, ha el szeretné kezdeni a letöltést, be kell fejeznie a csak Wi-Fi-n keresztüli letöltést.
 
-Biztos, hogy befejezi a kizárólag Wi-Fi-n keresztüli letöltést és letölt\"</string>
+Biztos, hogy befejezi a kizárólag Wi-Fi-n keresztüli letöltést és letölt"</string>
   <string name="wifi_dialog_positive">OK</string>
   <string name="wifi_dialog_negative">Mégsem</string>
   <string name="delete_dialog_title">töröl</string>
   <string name="delete_dialog_content">Biztos, hogy törli a %1$d letöltéseket?</string>
-  <string name="delete_dialog_content3">\"Biztos, hogy elveti és törli a %1$d letöltéseket?
-\"</string>
+  <string name="delete_dialog_content3">"Biztos, hogy elveti és törli a %1$d letöltéseket?
+"</string>
   <string name="delete_dialog_content2">fájl törlése a lemezen</string>
   <string name="delete_dialog_positive">OK</string>
   <string name="delete_dialog_negative">Mégsem</string>

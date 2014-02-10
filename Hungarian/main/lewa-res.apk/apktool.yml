@@ -1,0 +1,24 @@
+version: 2.0.0
+apkFileName: lewa-res.apk
+isFrameworkApk: true
+usesFramework:
+  ids:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+sdkInfo:
+  minSdkVersion: '17'
+  targetSdkVersion: '17'
+packageInfo:
+  cur_package: lewa
+  cur_package_id: '9'
+  orig_package: lewa
+versionInfo:
+  versionCode: '17'
+  versionName: 4.2.1-eng.lewa.1390481523
+compressionType: false

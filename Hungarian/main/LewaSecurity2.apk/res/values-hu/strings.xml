@@ -3,6 +3,7 @@
   <string name="app_name">Biztonsági központ</string>
   <string name="main_page">Home</string>
   <string name="details">Részletek</string>
+  <string name="security_detect">észlelés</string>
   <string name="app_virus_difense">Vírusvédelem</string>
   <string name="app_intercept">Feltartóztat</string>
   <string name="app_clearance">Rendszertisztítás</string>
@@ -50,4 +51,6 @@
   <string name="complte_hint_safe">Az ellenőrzés befejeződött, a készüléke biztonságos</string>
   <string name="complte_hint_risk">Az ellenőrzés befejeződött, kérem optimalizálja</string>
   <string name="complte_hint_danger">Az ellenőrzés befejeződött, kérem optimalizálja!</string>
+  <string name="security_protect">véd</string>
+  <string name="logo_notice">Tencent mobil komornyik, hogy technikai támogatást nyújtson</string>
 </resources>

@@ -59,7 +59,7 @@
   <string name="label_go_to_inbox">Postafiók ellenőzrzése</string>
   <string name="label_later">Később</string>
   <string name="label_switch_users">Fekhasználó váltása</string>
-  <string name="header_data_and_synchronization">Data &amp; synchronization</string>
+  <string name="header_data_and_synchronization">Adat &amp; szinkronizáció</string>
   <string name="labi_sync_title">Kapcsolatok Szinkronizálása</string>
   <string name="labi_sync_summary">Kapcsolatok Szinkronizálása Labi-ba</string>
   <string name="labi_recovery_title">Névjegyek visszaállítása</string>
