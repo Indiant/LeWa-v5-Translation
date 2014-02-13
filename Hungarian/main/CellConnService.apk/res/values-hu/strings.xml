@@ -29,4 +29,5 @@
   <string name="confirm_permit_roaming_fail">Megszakítja a műveletet a Barangoló SIM-en</string>
   <string name="confirm_sim_locked_message">A SIM kártya zárolva lett</string>
   <string name="confirm_slot_locked_message">A SIM kártya zárolva lett</string>
+  <string name="confirm_disable_lbutton">tiltott</string>
 </resources>

@@ -13,7 +13,7 @@
   <string name="load_tip">Betöltés...</string>
   <string name="topic_review">Téma áttekintése</string>
   <string name="share_title">Megosztás barátokkal</string>
-  <string name="share_content">Találtam egy jó programot az áruházban\"%1$s\", töltsd le te is! ~%2$s</string>
+  <string name="share_content">Találtam egy jó programot az áruházban\"%1$s\", töltse le Ön is! ~%2$s</string>
   <string name="clear_search_history">Előzmények törlése</string>
   <string name="message_loading_app_to_share">Töltődik, később is megoszthatja~</string>
   <string name="message_get_app_fail_to_share">A letöltött program nem osztható meg~</string>
@@ -26,16 +26,16 @@
   <string name="message_response_error">Adatfogadási hiba-_-!</string>
   <string name="message_sd_not_available">SD kártya nem található-_-!</string>
   <string name="message_sd_available">SD kártya észlelése, letöltheti most a programot~</string>
-  <string name="message_sd_not_available_for_image">SD kártya nem található, nem lehet programot letölteni, és nem lehet a programot megjeleníteni-_-!</string>
+  <string name="message_sd_not_available_for_image">SD kártya nem található, nem lehet letölteni és megjeleníteni a programot-_-!</string>
   <string name="message_sd_not_enough">Nincs elegendő szabad tárhely a kártyán, mielőtt folytatná, szabadítson fel helyet-_-!</string>
   <string name="message_big_apk_tip">5M-ánál nagyobb a méret, javasolt WIFI-n keresztül letölteni~</string>
   <string name="message_no_search_result">Nincs eredmény-_-!</string>
   <string name="message_no_search_word">Adjon meg néhány paramétert a kereséshez~</string>
-  <string name="message_open_app_fail">A programot nem lehet megnyítni-_-!</string>
+  <string name="message_open_app_fail">A programot nem lehet megnyitni-_-!</string>
   <string name="noti_install_app_fail">Nem lehet telepíteni a programot, elképzelhető, hogy előbb törölni kell</string>
   <string name="noti_install_app_fail_invalid_apk">Telepítés sikertelen, nem lehet ellenőrizni az fájlt</string>
   <string name="noti_install_app_fail_invalid_patch">Telepítés sikertelen, nem lehet ellenőrizni az apk javítást</string>
-  <string name="noti_install_failed_container_error">Telepítés sikertelen, ez a program csak az sd-kártyára telepíthatő</string>
+  <string name="noti_install_failed_container_error">Telepítés sikertelen, ez a program csak az sd-kártyára telepíthető</string>
   <string name="noti_install_app_fail_insufficient_storage">Telepítés sikertelen, nincsen elég hely az SD kártyán</string>
   <string name="noti_install_app_fail_no_file">Telepítés sikertelen, a fájl nem található</string>
   <string name="noti_install_app_fail_app_is_top">Nem települ, a program felül van, klikkeljen a megnézéshez</string>
@@ -44,7 +44,7 @@
   <string name="noti_title_install_app_success"> telepítés sikeres</string>
   <string name="noti_install_app_success">Telepítés sikeres, program megnyitása</string>
   <string name="noti_install_app_success_cannot_open">Telepítés sikeres</string>
-  <string name="update_no_more">Az ön vprogramja frisebb~</string>
+  <string name="update_no_more">Az Ön programja frissebb~</string>
   <string name="noti_noti_update_suffix">Az áruház %1$s programot tud frissíteni</string>
   <string name="noti_noti_update_suffix2"> frissíthető</string>
   <string name="source_official">Lewa</string>
@@ -94,7 +94,9 @@
   <string name="drop_down_list_footer_default_text">Több</string>
   <string name="drop_down_list_footer_loading_text">Betöltés</string>
   <string name="drop_down_list_footer_no_more_text">Nincs több</string>
-  <string name="app_manage">App Manage</string>
+  <string name="app_manage">Program kezelő</string>
   <string name="search_tip">Érintse meg a kereséshez</string>
+  <string name="download_menu_title">Kattinton ide a letöltéshez</string>
+  <string name="update_all_menu_title">Kattintson az összes frissítéséhez</string>
   <string name="image_mask_path">M32,0c16.471,0,23.101,0,27.551,4.45C64,8.899,64,15.353,64,32c0,16.812,0,23.102-4.464,27.565C55.102,64,48.312,64,32,64 C15.736,64,8.9,64,4.396,59.497C-0.206,54.895,0.001,48.308,0.001,32c0-16.751,0-23.101,4.413-27.515C8.9,0,15.292,0,32,0z</string>
 </resources>
