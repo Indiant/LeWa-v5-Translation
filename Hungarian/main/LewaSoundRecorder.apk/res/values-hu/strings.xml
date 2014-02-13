@@ -87,14 +87,5 @@
     <string name="recording_effect_AGC">Automatikus erősítés szabályozás</string>
     <string name="recording_effect_AEC">Visszhang mentesítés</string>
     <string name="recording_effect_NS">Zaj elnyomás</string>
-    <string name="error_sdcard_access">"Nincs hozzáférés külső vagy belső tárhelyhez"</string>
-    <string name="error_mediadb_new_record">"A mentés sikertelen"</string>
-    <string name="insert_sd_card">SD-kártya szükséges</string>
-    <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
-    <string name="record_your_message">Üzenet rögzítése</string>
-    <string name="message_recorded">Üzenet rögzítve</string>
-    <string name="review_message">Üzenet megtekintése</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="audio_db_artist_name">Saját felvételek</string>
-    <string name="error_app_internal">Belső alkalmazáshiba</string>
 </resources>
