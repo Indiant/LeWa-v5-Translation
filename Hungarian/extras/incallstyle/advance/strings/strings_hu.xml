@@ -1,5 +1,5 @@
 <strings>
-    <string name="slide_down_answer" value="Húzza le, hogy felvegye" />
-    <string name="slide_down_hangup" value="Húzza le, hogy lerakja" />
-    <string name="slide_down_reply" value="Húzza le, hogy válaszoljon" />
+    <string name="slide_down_answer" value="Húzza le a felvételhez" />
+    <string name="slide_down_hangup" value="Húzza le a lerakáshoz" />
+    <string name="slide_down_reply" value="Húzza le a válaszhoz" />
 </strings>
