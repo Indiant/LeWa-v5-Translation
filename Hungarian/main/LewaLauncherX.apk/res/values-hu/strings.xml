@@ -21,8 +21,8 @@
     <string name="safe_scanning">Keresés...</string>
     <string name="safe_scanning_error">Keresési hiba, kérjük próbálja újra később</string>
     <string name="safe_status_one">Állapot</string>
-    <string name="safe_status_two">"napja nem történt ellenőrzés"</string>
-    <string name="safe_status_three">Nenm történt korábban ellenőrzés</string>
+    <string name="safe_status_two">napja nem történt ellenőrzés</string>
+    <string name="safe_status_three">Nem történt korábban ellenőrzés</string>
     <string name="clean_toast_str0">Optimalizálás a legjobb</string>
     <string name="clean_toast_str1">"Sikeresen felszabadítva %1$d M memória
 Jelenleg elérhető memória %2$d M"</string>
@@ -32,7 +32,7 @@ Jelenleg elérhető memória %2$d M"</string>
     <string name="chooser_wallpaper">Háttérkép kiválasztása innen</string>
     <string name="wallpaper_instructions">Háttérkép beállítása</string>
     <string name="pick_wallpaper">Háttérképek</string>
-    <string name="activity_not_found">"Az alkalmazás nincs telepítve."</string>
+    <string name="activity_not_found">Az alkalmazás nincs telepítve.</string>
     <string name="widgets_tab_label">Modulok</string>
     <string name="widget_dims_format">%1$d x %2$d</string>
     <string name="external_drop_widget_pick_format">%1$s (%2$d x %3$d)</string>
@@ -67,7 +67,7 @@ Jelenleg elérhető memória %2$d M"</string>
     <string name="folder_closed">Mappa bezárás</string>
     <string name="folder_renamed">Mappa átnevezve %1$s</string>
     <string name="folder_name_format">Mappa: %1$s</string>
-    <string name="cannot_add_more_screen">"Nem lehetséges további képernypket létrehozni"</string>
+    <string name="cannot_add_more_screen">Nem lehetséges további képernypket létrehozni</string>
     <string name="cannot_delete_more_screen">Nem lehet több képernyőt törölni.</string>
     <string name="menu_preview">Előzetes</string>
     <string name="menu_edit">Modulok</string>
@@ -84,7 +84,7 @@ Jelenleg elérhető memória %2$d M"</string>
     <string name="pref_title_action_updown">Asztal gesztusok</string>
     <string name="pref_summary_action_updown">Az asztalon az ujját lefelé húzva jelenjenek meg az értesítések, felfelé húzva az alkalmazások.</string>
     <string name="pref_title_shake">Programok elrendezéséhez rázza</string>
-    <string name="pref_summary_shake">"Rázza a telefont, hogy gyorsan elrendezze a jelenlegi oldal programjait"</string>
+    <string name="pref_summary_shake">Rázza a telefont, hogy gyorsan elrendezze a jelenlegi oldal programjait</string>
     <string name="shake_degree_title">Rázás érzékenység</string>
     <string name="shake_degree_summary">Állítsa be, hogy mennyi erő szükséges a programok elrendezéséhez</string>
     <string name="shake_degree_gentle">Kedves</string>
@@ -132,15 +132,15 @@ Jelenleg elérhető memória %2$d M"</string>
     <string name="cancel">Mégsem</string>
     <string name="uninstall_done">Eltávolítás sikerült.</string>
     <string name="uninstall_failed">Eltávolítás nem sikerült.</string>
-    <string name="uninstall_failed_msg">"%1$s nem távolítható el."</string>
+    <string name="uninstall_failed_msg">%1$s nem távolítható el.</string>
     <string name="uninstall_application_text">Szeretné eltávolítani ezt az alkalmazást?</string>
-    <string name="uninstall_failed_device_policy_manager">"Nem lehet eltávolítani."</string>
-    <string name="uninstall_app_not_found_text">"Az alkalmazás nem található a telepített alkalmazások listájában."</string>
+    <string name="uninstall_failed_device_policy_manager">Nem lehet eltávolítani.</string>
+    <string name="uninstall_app_not_found_text">Az alkalmazás nem található a telepített alkalmazások listájában.</string>
     <string name="uninstall_application_title">Alkalmazás eltávolítása</string>
     <string name="uninstall_update_title">Frissítések eltávolítása</string>
     <string name="uninstall_activity_text">%1$s része a következő programnak:</string>
     <string name="uninstall_update_text">Szeretné lecserélni ezt az alkalmazást a gyári verzióra?</string>
-    <string name="app_not_found_dlg_text">"Az alkalmazás nem található a telepített alkalmazások listájában."</string>
+    <string name="app_not_found_dlg_text">Az alkalmazás nem található a telepített alkalmazások listájában.</string>
     <string name="external_drop_widget_error">Nem húzható ez az elem a főképernyőre.</string>
     <string name="external_drop_widget_pick_title">Válassza ki a létrehozandó widgetet</string>
 </resources>
