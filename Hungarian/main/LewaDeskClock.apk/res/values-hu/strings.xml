@@ -108,8 +108,8 @@
     <string name="timer_time_up">Elkövetkezett</string>
     <string name="timer_time_up_ok">Ismert</string>
     <string name="delete_selected">Kiválasztva %s</string>
-    <string name="alarm_empty_text">Érintse meg lejebb, ébresztés hozzáadásához</string>
-    <string name="world_clock_empty_text">Érintse meg lejebb város hozzáadásához</string>
+    <string name="alarm_empty_text">Érintse meg lejjebb, ébresztés hozzáadásához</string>
+    <string name="world_clock_empty_text">Érintse meg lejjebb egy város hozzáadásához</string>
     <string name="add_city">Város hozzáadása</string>
     <string name="could_not_add_more_lap_time">99 körnél többet nem használhat</string>
     <string name="menu_actionbar_selected_items">%s kiválasztva</string>
