@@ -139,7 +139,7 @@
     <string name="keyguard_data">Adatkapcsolat:</string>
     <string name="keyguard_alwaysask">Mindíg kérdezzen rá</string>
     <string name="keyguard_data_none">Ki</string>
-    <string name="dismiss">Bezár</string>
+    <string name="dismiss">Elvet</string>
     <string name="keyguard_wrong_code_input">Hibás kód.</string>
     <string name="keyguard_code_length_prompt">Adjon meg 4-8 számjegyet.</string>
     <string name="keyguard_code_donnot_mismatch">Nem egyeznek.</string>
@@ -148,7 +148,7 @@
     <string name="keyguard_not_set">Nincs megadva</string>
     <string name="network_searching">Új hálózat keresése</string>
     <string name="searching_simcard">Keresés...</string>
-    <string name="keyguard_close">Bezár</string>
+    <string name="keyguard_close">Mégsem</string>
     <string name="more_siminfo_for_button">További infók</string>
     <string name="more_info_title">Megjelölt SIM kártya feloldása</string>
     <string name="for_first_simcard">Az első SIM kártyához</string>
