@@ -2447,8 +2447,8 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
   <string name="location_access_summary">Engedélyezze az engedélyt kérő alkalmazásoknak a helyadatok használatát</string>
   <string name="location_sources_heading">Forráshelyek</string>
   <string name="rom_size_title">"Telefonmemória： "</string>
-  <string name="rom_size_default">\%1$s （Elérhető）
-%2$s （Összes）\</string>
+  <string name="rom_size_default">%1$s （Elérhető）
+%2$s （Összes）</string>
   <string name="g_sensor_calibration_title">G-szenzor beállításai</string>
   <string name="proximity_sensor_calibration_title">Proximity Szenzor beállítássa</string>
   <string name="proximity_sensor_calibration_message">Ügyeljen arra, hogy azérzékelő ne legyen letakarva</string>
