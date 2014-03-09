@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:layout_width="wrap_content" android:title="További beállítások" android:summary="További beállítások konfigurálása"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen android:title="A gyorsulásmérő érzékenységének módosítása" android:summary="Szenzorbeállítások">
+        <SeekBarPreference android:max="8" android:title="Érzékenység (0-8)" android:key="value" android:defaultValue="5" />
+        <SeekBarPreference android:max="100" android:title="Mintavételezési arány (0-100)" android:key="rate" android:defaultValue="30" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="További telefon beállítások" android:summary="Hívás lehetőségek">
+        <CheckBoxPreference android:title="Mutassa a kezdő képernyőt" android:key="call_end" android:defaultValue="false" android:summaryOn="A hívás végén a telefon bezárása és a kezdőképernyőre váltás" android:summaryOff="A hívás után a Telefon alkalmazás aktív marad" />
+        <CheckBoxPreference android:title="The coup mutes" android:key="flip_mute" android:defaultValue="false" android:summaryOn="Be" android:summaryOff="Ki" />
+        <CheckBoxPreference android:title="Mentse a rezgést, amikor a hang ki van kapcsolva" android:key="keep_vibro" android:dependency="flip_mute" android:defaultValue="false" android:summaryOn="Vibrate when the coup" android:summaryOff="Do not vibrate when the coup" />
+        <CheckBoxPreference android:title="ZSEBBEN mód" android:key="pocket_mode" android:defaultValue="false" android:summaryOn="Ha a telefon a zsebben van - a maximális hangerő engedélyezve lesz" android:summaryOff="Ha nincs a zsebben - a hangerő a rendszer beállításai szerint alakul" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="Az emelkedő hangerő beállítása" android:summary="Az erősödő hangerő">
+        <CheckBoxPreference android:id="@id/increasing_ring" android:title="A erősödő hangerejű hívás" android:key="increasing_ring" android:defaultValue="false" android:summaryOn="A csengetési hangerő fokozatosan emelkedik" android:summaryOff="A csengés hangereje a rendszer beállításai szerint alakul" />
+        <CheckBoxPreference android:title="Emelkedő hangerejű ébresztő" android:key="increasing_alarm" android:defaultValue="false" android:summaryOn="Az ébresztés hangereje fokozatosan emelkedik" android:summaryOff="Az ébresztés hangereje a rendszer beállításai szerint alakul" />
+        <SeekBarPreference android:max="7" android:title="Kezdeti hangerő (0-7)" android:key="seekBar_initial_volume" android:dependency="increasing_ring" android:defaultValue="5" />
+        <SeekBarPreference android:max="10" android:title="Késés másodpercben (0-10)" android:key="seekBar_delay" android:dependency="increasing_ring" android:defaultValue="1" />
+    </PreferenceScreen>
+    <CheckBoxPreference android:title="Zárképernyő" android:key="flip_screenoff" android:defaultValue="false" android:summaryOn="Coup phone locks the screen" android:summaryOff="The accelerometer is off, coup phone does not lock screen" />
+    <CheckBoxPreference android:title="Zárképernyő a zsebben" android:key="pocket_off" android:defaultValue="false" android:summaryOn="Ha a telefon zsebbe kerül, a képernyő lezár" android:summaryOff="A képernyő nincs zárolva a zsebben" />
+    <PreferenceScreen android:title="Külön hangerő beállítások az értesítéseknek" android:summary="Az értesítések hangereje">
+        <CheckBoxPreference android:id="@id/notify" android:title="Az értesítések hangereje" android:key="notify" android:defaultValue="false" android:summaryOn="Az értesítések külön hangerő beállítása" android:summaryOff="Az értesítések hangereje a rendszer beállítások szerint" />
+        <SeekBarPreference android:max="7" android:title="Az értesítések hangereje (0-7)" android:key="seekBar_notify" android:dependency="notify" android:defaultValue="5" />
+    </PreferenceScreen>
+</PreferenceScreen>

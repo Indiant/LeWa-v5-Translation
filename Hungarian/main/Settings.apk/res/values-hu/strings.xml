@@ -2552,5 +2552,5 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="sensor_smart_call">Okos hívás</string>
     <string name="sensor_smart_call_summary">In the contact details or SMS, automatically call when near the ear</string>
     <string name="activity_rounded_corner_title">Show screen rounded corner</string>
-    <string name="further_settings">Extra settings</string>
+    <string name="further_settings">Extra beállítások</string>
 </resources>

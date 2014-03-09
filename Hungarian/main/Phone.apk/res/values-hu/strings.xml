@@ -488,10 +488,10 @@ Next period starts in %4$d days (%5$s)"</string>
 Next period starts in %2$d days (%3$s)"</string>
     <string name="voicemail_number_not_set">&lt;Not set></string>
     <string name="phoneAppLabel">Telefon</string>
-    <string name="emergencyDialerIconLabel">Emergency Dialer</string>
+    <string name="emergencyDialerIconLabel">Sürgősségi tárcsázó</string>
     <string name="phoneIconLabel">Telefon</string>
-    <string name="unknown">Unknown</string>
-    <string name="private_num">Private number</string>
+    <string name="unknown">Ismeretlen</string>
+    <string name="private_num">Magán szám</string>
     <string name="payphone">Pay phone</string>
     <string name="onHold">On hold</string>
     <string name="ongoing">Current call</string>
