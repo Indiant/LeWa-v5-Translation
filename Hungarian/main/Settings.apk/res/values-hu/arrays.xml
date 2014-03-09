@@ -506,6 +506,44 @@
   <string-array name="simguide_datauseage">
     <item>MB/hó</item>
     <item>GB/hó</item>
+    </string-array>
+    <string-array name="led_freq_entries">
+        <item>2 másodperc</item>
+        <item>3 másodperc</item>
+        <item>4 másodperc</item>
+        <item>5 másodperc</item>
+        <item>6 másodperc</item>
+        <item>7 másodperc</item>
+        <item>8 másodperc</item>
+        <item>9 másodperc</item>
+    </string-array>
+    <string-array name="led_freq_values">
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6000</item>
+        <item>7000</item>
+        <item>8000</item>
+        <item>9000</item>
+    </string-array>
+    <string-array name="led_color_values">
+        <item>kék</item>
+        <item>piros</item>
+        <item>sárga</item>
+        <item>zöld</item>
+        <item>cián</item>
+        <item>fehér</item>
+        <item>\#FFAA00AA</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>Kék</item>
+        <item>Piros</item>
+        <item>Sárga</item>
+        <item>Zöld</item>
+        <item>Cián</item>
+        <item>Fehér</item>
+        <item>Lila</item>
   </string-array>
   <string-array name="gemini_sim_info_number_display_format_entries">
     <item>Első 4 számjegy</item>

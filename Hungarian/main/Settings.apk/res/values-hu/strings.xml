@@ -469,6 +469,7 @@ Biztosan engedélyezni akarja a GPS-t és várakozik a GPS által biztosított i
   <string name="fast_mode_title">Gyors hívás/üzenet</string>
   <string name="fast_mode_summary">Open to experience speed intelligent dialing and sent messages</string>
   <string name="sim_displayname_too_long">Max. nyolc karakter</string>
+  <string name="privacy_policy">Privacy Policy</string>
   <string name="header_lewa_account_info">Felhasználói adatok</string>
   <string name="header_lewa_account_info_nickname">Becenév</string>
   <string name="header_lewa_account_info_usergroup">Felhasználói csoport:</string>
@@ -766,7 +767,9 @@ This setting affects all users on this phone.\"</string>
   <string name="crypt_keeper_encrypt_title">Telefon titkosítása</string>
   <string name="crypt_keeper_encrypt_summary">A telefon titkosításának feloldásához kérjen minden bekapcsoláskor egy számokból álló PIN kódot vagy jelszót</string>
   <string name="crypt_keeper_encrypted_summary">Titkosítva</string>
-  <string name="crypt_keeper_desc">Titkosíthatja fiókjait, beállításait, letöltött alkalmazásait és azok adatait, illetve média- és egyéb fájljait. Ha titkosította telefonját, egy számokból álló PIN kódot vagy jelszót kell megadnia minden bekapcsoláskor a titkosítás feloldásához. Telefonja titkosítását nem tudja visszavonni, kivéve a gyári adatok visszaállításával, minden adatának törlésével.A titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral kell elkezdenie, és telefonját bedugva kell tartania a titkosítás befejezéséig. Ha megszakítja a titkosítási folyamatot, részben vagy egészben elveszíti adatait.</string>
+  <string name="crypt_keeper_desc">Titkosíthatja fiókjait, beállításait, letöltött alkalmazásait és azok adatait, illetve média- és egyéb fájljait. Ha titkosította telefonját, egy számokból álló PIN kódot vagy jelszót kell megadnia minden bekapcsoláskor a titkosítás feloldásához. Telefonja titkosítását nem tudja visszavonni, kivéve a gyári adatok visszaállításával, minden adatának törlésével.
+
+A titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral kell elkezdenie, és telefonját bedugva kell tartania a titkosítás befejezéséig. Ha megszakítja a titkosítási folyamatot, részben vagy egészben elveszíti adatait.</string>
   <string name="crypt_keeper_button_text">Telefon titkosítása</string>
   <string name="crypt_keeper_low_charge_text">Töltse fel az akkumulátort, és próbálja újra.</string>
   <string name="crypt_keeper_unplugged_text">Csatlakoztassa töltőjét, és próbálja újra.</string>
@@ -779,7 +782,9 @@ This setting affects all users on this phone.\"</string>
   <string name="crypt_keeper_cooldown">Próbálja újra ^1 másodperc múlva.</string>
   <string name="crypt_keeper_enter_password">Írja be a jelszavát</string>
   <string name="crypt_keeper_failed_title">A titkosítás sikertelen</string>
-  <string name="crypt_keeper_failed_summary">A titkosítás megszakadt, és nem lehet befejezni. Ezért a telefonon található adatokhoz nem lehet hozzáférni.Ahhoz, hogy újra használni tudja telefonját, vissza kell állítani a gyári beállításokat. Amikor a visszaállítás után beállítja telefonját, lehetősége lesz minden adat visszaállítására, amelyet a rendszer eltárolt a Google Fiókjában.</string>
+  <string name="crypt_keeper_failed_summary">"A titkosítás megszakadt, és nem lehet befejezni. Ezért a telefonon található adatokhoz nem lehet hozzáférni.Ahhoz, hogy újra használni tudja telefonját, vissza kell állítani a gyári beállításokat. 
+
+Amikor a visszaállítás után beállítja telefonját, lehetősége lesz minden adat visszaállítására, amelyet a rendszer eltárolt a Google Fiókjában."</string>
   <string name="crypt_keeper_switch_input_method">Válassza ki a bevitel módját</string>
   <string name="lock_settings_picker_title">Képernyőzár-választás</string>
   <string name="backup_lock_settings_picker_title">Biztonsági zárolás</string>
@@ -936,7 +941,9 @@ This setting affects all users on this phone.\"</string>
   <string name="android_beam_off_summary">Ki</string>
   <string name="android_beam_disabled_summary">Nem érhető el, mert az NFC ki van kapcsolva</string>
   <string name="android_beam_label">Android Beam</string>
-  <string name="android_beam_explained">Ha ez a funkció be van kapcsolva, alkalmazástartalmat sugározhat át egy másik NFC-kompatibilis eszközre úgy, hogy egymáshoz közel tartja az eszközöket. Például átsugározhat böngészőoldalalakat, YouTube-videókat, névjegyeket stb.Mindössze helyezze az eszközöket egymáshoz közel (lehetőleg a hátlapjaikat összeérintve), majd érintse meg a képernyőt. Az alkalmazás eldönti, hogy mit fog átsugározni.</string>
+  <string name="android_beam_explained">"Ha ez a funkció be van kapcsolva, alkalmazástartalmat sugározhat át egy másik NFC-kompatibilis eszközre úgy, hogy egymáshoz közel tartja az eszközöket. Például átsugározhat böngészőoldalalakat, YouTube-videókat, névjegyeket stb.
+
+Mindössze helyezze az eszközöket egymáshoz közel (lehetőleg a hátlapjaikat összeérintve), majd érintse meg a képernyőt. Az alkalmazás eldönti, hogy mit fog átsugározni."</string>
   <string name="nsd_quick_toggle_title">Hálózati szolgáltatások keresése</string>
   <string name="nsd_quick_toggle_summary">Más eszközökön lévő alkalmazások láthatják az ezen a készüléken lévő alkalmazásokat.</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
@@ -1204,9 +1211,11 @@ Phone setup can require significant network activity.\"</string>
   <string name="sim_change_pin">SIM-kártya PIN-kódja</string>
   <string name="sim_bad_pin">Helytelen PIN kód</string>
   <string name="sim_pins_dont_match">"A PIN kódok nem egyeznek"</string>
-  <string name="sim_change_failed">Nem lehet megváltoztatni a PIN kódot.Lehet, hogy hibás a PIN kód.</string>
+  <string name="sim_change_failed">"Nem lehet megváltoztatni a PIN kódot.
+Lehet, hogy hibás a PIN kód."</string>
   <string name="sim_change_succeeded">A SIM-kártya PIN-kódja sikeresen módosításra került</string>
-  <string name="sim_lock_failed">Nem lehet megváltoztatni a SIM-kártya zárolási állapotát.Lehet, hogy hibás a PIN kód.</string>
+  <string name="sim_lock_failed">"Nem lehet megváltoztatni a SIM-kártya zárolási állapotát.
+Lehet, hogy hibás a PIN kód."</string>
   <string name="sim_enter_ok">OK</string>
   <string name="sim_enter_cancel">Mégsem</string>
   <string name="device_info_settings">Telefon állapota</string>
@@ -1330,10 +1339,21 @@ Phone setup can require significant network activity.\"</string>
   <string name="restore_default_apn_completed">Az alapértelmezett APN-beállítások visszaállítása befejeződött.</string>
   <string name="master_clear_title">Gyári adatok visszaállítása</string>
   <string name="master_clear_summary">Minden adat törlése a telefonról</string>
-  <string name="master_clear_desc">Ez minden adatot töröl a telefon <b>belső tárolójáról</b>, többek között:<li>Google Fiókját</li><li>A rendszer- és alkalmazásadatokat és beállításokat</li><li>A letöltött alkalmazásokat</li></string>
-  <string name="master_clear_accounts">Jelenleg a következő fiókokba van bejelentkezve:</string>
-  <string name="master_clear_desc_also_erases_external"><li>Zene</li><li>Fotók</li><li>Más felhasználói adatok</li></string>
-  <string name="master_clear_desc_erase_external_storage">A zenék, képek és más felhasználói adatok törléséhez az <b>SD-kártyát</b> is törölnie kell.</string>
+  <string name="master_clear_desc">"Ez minden adatot töröl a telefon "<b>belső tárolójáról</b>", többek között:
+
+"<li>Google Fiókját</li>"
+"<li>A rendszer- és alkalmazásadatokat és beállításokat</li>"
+"<li>A letöltött alkalmazásokat</li></string>
+    <string name="master_clear_accounts">"
+
+Jelenleg a következő fiókokba van bejelentkezve:
+"</string>
+    <string name="master_clear_desc_also_erases_external"><li>Zene</li>"
+"<li>Fotók</li>"
+"<li>Más felhasználói adatok</li></string>
+    <string name="master_clear_desc_erase_external_storage">"
+
+A zenék, képek és más felhasználói adatok törléséhez az "<b>SD-kártyát</b> is törölnie kell.</string>
   <string name="erase_external_storage">SD-kártya törlése</string>
   <string name="erase_external_storage_description">Minden adat, például zenék és képek törlése az SD-kártyáról</string>
   <string name="master_clear_button_text">Telefon visszaállítása</string>
@@ -1446,7 +1466,9 @@ Phone setup can require significant network activity.\"</string>
   <string name="skip_button_label">Mégse</string>
   <string name="next_button_label">Tovább</string>
   <string name="lock_title">A telefon védelme</string>
-  <string name="lock_intro_message">Védje meg telefonját a jogosulatlan használattól egy személyes képernyőfeloldási minta létrehozásával. Ujjával tetszőleges sorrendben kössön össze legalább négy pontot a következő képernyőn.Készen áll? Érintse meg a Tovább gombot.</string>
+  <string name="lock_intro_message">"Védje meg telefonját a jogosulatlan használattól egy személyes képernyőfeloldási minta létrehozásával. Ujjával tetszőleges sorrendben kössön össze legalább négy pontot a következő képernyőn.
+
+Készen áll? Érintse meg a Tovább gombot."</string>
   <string name="manageapplications_settings_title">Alkalmazások kezelése</string>
   <string name="manageapplications_settings_summary">Telepített alkalmazások kezelése és eltávolítása</string>
   <string name="applications_settings">Alkalmazások</string>
@@ -1496,7 +1518,14 @@ Phone setup can require significant network activity.\"</string>
   <string name="show_background_processes">Tárolt folyamatok</string>
   <string name="reset_app_preferences">Alapbeállítások</string>
   <string name="reset_app_preferences_title">Visszaállítja a beállításokat?</string>
-  <string name="reset_app_preferences_desc">Ez visszaállítja az összes beállítást a következőknél: <li>Letiltott alkalmazások</li> <li>Letiltott alkalmazásokkal kapcsolatos értesítések</li> <li>Alapértelmezett alkalmazások az egyes műveletekhez</li><li>Háttéradatokra vonatkozó korlátozások az alkalmazásoknál</li>Az alkalmazásokban található adatok nem fognak elveszni.</string>
+  <string name="reset_app_preferences_desc">"Ez visszaállítja az összes beállítást a következőknél: 
+
+"<li>Letiltott alkalmazások</li>"
+"<li>Letiltott alkalmazásokkal kapcsolatos értesítések</li>"
+"<li>Alapértelmezett alkalmazások az egyes műveletekhez</li>"
+"<li>Háttéradatokra vonatkozó korlátozások az alkalmazásoknál</li>"
+
+Az alkalmazásokban található adatok nem fognak elveszni."</string>
   <string name="reset_app_preferences_button">Alapbeállítások</string>
   <string name="manage_space_text">Terület kezelése</string>
   <string name="filter">Szűrő</string>
@@ -1689,7 +1718,9 @@ Phone setup can require significant network activity.\"</string>
   <string name="enforce_read_external_title">SD kártya védetté tétele</string>
   <string name="enforce_read_external_summary">Az alkalmazások kérjenek engedélyt az SD kártya olvasására</string>
   <string name="enforce_read_external_confirm_title">Védetté teszi az SD kártyát?</string>
-  <string name="enforce_read_external_confirm_message">Ha az SD kártya védett, az alkalmazásoknak engedélyt kell kérniük a külső tárhelyen tárolt adatok olvasására.Előfordulhat,hogy egyes alkalmazások nem működnek addig, amíg a fejlesztők nem frissítik azokat.</string>
+  <string name="enforce_read_external_confirm_message">"Ha az SD kártya védett, az alkalmazásoknak engedélyt kell kérniük a külső tárhelyen tárolt adatok olvasására.
+
+Előfordulhat,hogy egyes alkalmazások nem működnek addig, amíg a fejlesztők nem frissítik azokat."</string>
   <string name="gadget_picker_title">Modul kiválasztása</string>
   <string name="widget_picker_title">Modul kiválasztása</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Létrehozza a widgetet engedélyezi a hozzáférést?</string>
@@ -1972,7 +2003,9 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
   <string name="wifi_setup_status_eap_not_supported">"EAP nem támogatott."</string>
   <string name="wifi_setup_eap_not_supported">"A beállítás során nem konfigurálhat EAP Wi-Fi kapcsolatot. Ezt a beállítás után a Beállításokban teheti meg, a Vezeték nélküli és egyéb hálózatok menüpontban."</string>
   <string name="wifi_setup_description_connecting">A kapcsolódás igénybe vehet pár percet...</string>
-  <string name="wifi_setup_description_connected">Érintse meg a <b>Tovább</b> lehetőséget a telepítés folytatásához.Érintse meg a <b>Vissza</b> lehetőséget egy másik Wi-Fi-hálózathoz való csatlakozáshoz.</string>
+  <string name="wifi_setup_description_connected">Érintse meg a <b>Tovább</b>" lehetőséget a telepítés folytatásához.
+
+Érintse meg a "<b>Vissza</b> lehetőséget egy másik Wi-Fi-hálózathoz való csatlakozáshoz.</string>
   <string name="time_zone_auto_stub">Válasszon időzónát</string>
   <string name="accessibility_sync_enabled">Szinkronizálás engedélyezve</string>
   <string name="accessibility_sync_disabled">Szinkronizálás letiltva</string>
@@ -1996,11 +2029,13 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
   <string name="settings_backup_summary">Biztonsági másolat készítése a beállításaimról</string>
   <string name="sync_menu_sync_now">Szinkronizálás most</string>
   <string name="sync_menu_sync_cancel">Szinkronizálás megszakítása</string>
-  <string name="sync_one_time_sync">Érintse meg az azonnali szinkronizáláshoz%1$s</string>
+  <string name="sync_one_time_sync">"Érintse meg az azonnali szinkronizáláshoz
+%1$s"</string>
   <string name="sync_gmail">Gmail</string>
   <string name="sync_calendar">Naptár</string>
   <string name="sync_contacts">Címtár</string>
-  <string name="sync_plug"><font fgcolor="#ffffffff">Üdvözli a Google Sync!</font>Az adatok Google-féle szinkronizálása lehetővé teszi, hogy bárhonnan hozzáférjen címtárához, találkozóihoz stb.</string>
+  <string name="sync_plug"><font fgcolor="#ffffffff">Üdvözli a Google Sync!</font>"
+Az adatok Google-féle szinkronizálása lehetővé teszi, hogy bárhonnan hozzáférjen címtárához, találkozóihoz stb."</string>
   <string name="header_application_sync_settings">Alkalmazás-szinkronizálási beállítások</string>
   <string name="header_data_and_synchronization">Adatok és szinkronizálás</string>
   <string name="preference_change_password_title">Jelszó módosítása</string>
@@ -2115,10 +2150,16 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
   <string name="data_usage_app_restrict_background_summary">Adatok kikapcs. mobil-adathálózatokon. Wi-Fi használata, ha van.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Háttéradatok korlátozásához előbb állítson be mobiladatkorlátot.</string>
   <string name="data_usage_app_restrict_dialog_title">Korlátozza a háttéradatokat?</string>
-  <string name="data_usage_app_restrict_dialog">Ez a funkció leállíthat egyes háttérben zajló adatforgalmat igénylő alkalmazásokat, amikor nem áll rendelkezésre Wi-Fi kapcsolat.Beállíthat megfelelőbb adathasználatot az alkalmazás beállításai között.</string>
+  <string name="data_usage_app_restrict_dialog">"Ez a funkció leállíthat egyes háttérben zajló adatforgalmat igénylő alkalmazásokat, amikor nem áll rendelkezésre Wi-Fi kapcsolat.
+
+Beállíthat megfelelőbb adathasználatot az alkalmazás beállításai között."</string>
   <string name="data_usage_restrict_denied_dialog">"A háttéradatok korlátozása csak akkor lehetséges, ha beállított mobil adatkorlátot."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Bekapcsolja a szinkronizálást?</string>
-  <string name="data_usage_auto_sync_on_dialog">Az interneten végrehajtott fiókmódosítások automatikusan megjelennek telefonján is.Egyes fiókok esetében ez fordítva is igaz. A Google Fiók az utóbbi szerint működik.Annak kiválasztásához, hogy mi legyen szinkronizálva az egyes fiókokon belül, menjen a Beállítások &gt; Fiókok lehetőségre.</string>
+  <string name="data_usage_auto_sync_on_dialog">"Az interneten végrehajtott fiókmódosítások automatikusan megjelennek telefonján is.
+
+Egyes fiókok esetében ez fordítva is igaz. A Google Fiók az utóbbi szerint működik.
+
+Annak kiválasztásához, hogy mi legyen szinkronizálva az egyes fiókokon belül, menjen a Beállítások &gt; Fiókok lehetőségre."</string>
   <string name="data_usage_auto_sync_off_dialog_title">Kikapcsolja a szinkronizálást?</string>
   <string name="data_usage_auto_sync_off_dialog">"Ez mérsékelni fogja az adat- és akkumulátorhasználatot, de minden egyes fiókot manuálisan kell majd szinkronizálnia a legfrissebb információk begyűjtéséhez. Továbbá nem fog értesítéseket kapni a frissítésekről."</string>
   <string name="data_usage_cycle_editor_title">Használati ciklus visszaállításának ideje</string>
@@ -2127,14 +2168,18 @@ Ha az eszközt több felhasználó is használja, akkor e kombináció zárolás
   <string name="data_usage_warning_editor_title">Adathasználati figyelmeztetés beállítása</string>
   <string name="data_usage_limit_editor_title">Adathasználati korlát beállítása</string>
   <string name="data_usage_limit_dialog_title">Adatforgalom korlátozása</string>
-  <string name="data_usage_limit_dialog_mobile">A mobilhálózat adatkapcsolatát a rendszer letiltja a megadott korlát elérésekor.Mivel az adathasználatot a telefon méri, és a szolgáltató mérése eltérhet ettől, célszerű óvatosabb korlátot beállítani.</string>
+  <string name="data_usage_limit_dialog_mobile">"A mobilhálózat adatkapcsolatát a rendszer letiltja a megadott korlát elérésekor.
+
+Mivel az adathasználatot a telefon méri, és a szolgáltató mérése eltérhet ettől, célszerű óvatosabb korlátot beállítani."</string>
   <string name="data_usage_restrict_background_title">Korlátozza a háttéradatokat?</string>
   <string name="data_usage_restrict_background">"Ha korlátozza a háttérben zajló mobiladat-forgalmat, néhány alkalmazás és szolgáltatás nem fog működni, ha a Wi-Fi nincs engedélyezve."</string>
   <string name="data_usage_restrict_background_multiuser">"Ha korlátozza a háttérben futó mobil adatátvitelt, bizonyos alkalmazások és szolgáltatások nem fognak működni, amíg nem kapcsolódik Wi-Fi hálózathoz.
 
 Ez a beállítás minden felhasználót érint ezen a telefonon."</string>
-  <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font><font size="12">figyelmeztetés</font></string>
-  <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font><font size="12">korlát</font></string>
+  <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
+"<font size="12">figyelmeztetés</font></string>
+  <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
+"<font size="12">korlát</font></string>
   <string name="data_usage_uninstalled_apps">Eltávolított alkalmazások</string>
   <string name="data_usage_uninstalled_apps_users">Eltávolított alkalmazások és felhasználók</string>
   <string name="data_usage_received_sent">%1$s érkezett, %2$s elküldve</string>
@@ -2474,4 +2519,38 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
   <string name="sim_settings_guide_datasave_summary">Amíg nem állítja be az adatforgalom maximális határát,addig a telefon nemtudja ellenőrizni az adatforgalom mennyiségét,és ha túllépi a keretét a szolgáltatója külön díjat számíthat fel.</string>
   <string name="sim_settings_guide_video_summary">Válassza a 3G-s kártyáját az alapértelmezett videóhívásokhoz</string>
   <string name="sim_settings_guide_fastmode_summary">Tapasztalja meg a gyors hívást és üzenetküldést</string>
+  <string name="halo_title">halo</string>
+  <string name="halo_summary_on">open halo</string>
+  <string name="halo_summary_off">close halo</string>
+  <string name="thumb_search_title">Fingertip search</string>
+  <string name="thumb_search_msg">Open fingertip search, you can in a web browser interface, long press the text, select the smart choice to search for the information you are interested in.</string>
+  <string name="led_settings">Breathing light</string>
+  <string name="led_colors_summary">Notifications</string>
+  <string name="led_frequence_summary">Set the interval between LED flashes</string>
+  <string name="led_pulse_summary">The LED light will flash when new notification or message arrives</string>
+  <string name="breathing_light_freq_title">Flash frequency</string>
+  <string name="led_settings_summary">Control the way breathing light works for better recognition of notifications or messages</string>
+  <string name="notification_led_color_titel">Color of notification</string>
+  <string name="incoming_call_led_color_titel">Color of incoming call</string>
+  <string name="mms_led_color_titel">Color of SMS</string>
+  <string name="notification_led_freq_title">Flash frequency of notification</string>
+  <string name="incoming_call_led_freq_title">Flash frequency of incoming call</string>
+  <string name="mms_led_freq_title">Flash frequency of SMS</string>
+  <string name="sensor_settings">Okos Szomatoszenzoros</string>
+  <string name="sensor_call_setting">Incalling</string>
+  <string name="sensor_other_setting">Other</string>
+  <string name="sensor_smart_answer">Okos válasz</string>
+  <string name="sensor_smart_answer_summary">Answer an incoming call by placing phone on ear</string>
+  <string name="sensor_turn_slient">Elnémítja a csengést a telefon lefordításával</string>
+  <string name="sensor_turn_slient_summary">Mute the phone by fliping over phone during an incoming call</string>
+  <string name="sensor_packet_ring">Zseb Mód</string>
+  <string name="sensor_packet_ring_summary">To activate vibration and turn ring volume to max. gradually during an incoming call as phone in pocket</string>
+  <string name="sensor_desk_ring">Hangosabban cseng</string>
+  <string name="sensor_desk_ring_summary">Mobile phone ringtone from zero rings gradually to maximum when income calling</string>
+  <string name="sensor_voice">Receiver mode Switch</string>
+  <string name="sensor_voice_summary">Ring will turn louder gradually during an incoming call</string>
+  <string name="sensor_smart_call">Okos hívás</string>
+  <string name="sensor_smart_call_summary">In the contact details or SMS, automatically call when near the ear</string>
+  <string name="activity_rounded_corner_title">Show screen rounded corner</string>
+  <string name="further_settings">Extra settings</string>
 </resources>
