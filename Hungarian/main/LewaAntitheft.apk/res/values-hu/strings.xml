@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Lopásgátló</string>
-  <string name="anti_theft_hint">Szükésge van a lopásgátlóra</string>
+  <string name="anti_theft_hint">Szüksége van a lopásgátlóra</string>
   <string name="anti_theft_hint_sub">Csak 3 lépés és lopás ellen védve van</string>
   <string name="app_summary">Anti Theft© LeWaTek Limited.</string>
   <string name="label_next">Következő</string>

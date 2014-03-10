@@ -2394,14 +2394,14 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="dialog_already_registered">Már be van jelentkezva,hamásik azonosítóval szeretne bejelentkezni,először kikelljelentkeznie</string>
     <string name="haptic_feedback_enable_summary">Érintéskor rezegjen</string>
     <string name="key_label">Gomb</string>
-    <string name="keyboard_lights_title">Gomnok világítása</string>
+    <string name="keyboard_lights_title">Gombok világítása</string>
     <string name="keyboard_lights_summary">A képernyő alatti gombok világítása</string>
     <string name="keyboard_auto_lights_title">A billentyűzet automatikus világítása</string>
     <string name="keyboard_auto_lights_summary">Az alsó gombsor világítása automatikusan van beállítva</string>
     <string name="volume_key_title">Hangerő gomb</string>
     <string name="volume_wake_title">Volume wake</string>
     <string name="volume_wake_summary">A hangerőgombok felébresztik a telefont</string>
-    <string name="volume_music_controls_title">A telefon felébresztése neélkül lehet a hangerőt állítani</string>
+    <string name="volume_music_controls_title">A telefon felébresztése nélkül lehet a hangerőt állítani</string>
     <string name="volume_music_controls_summary">A gomb hosszú lenyomásával a következő számra ugrik. Zenelejátszás közben nem fogja felébreszteni aképernyőt</string>
     <string name="back_key_title">Vissza gomb</string>
     <string name="back_to_kill_title">A visszagomb folyamatos nyomására bezárja afutó programot</string>
