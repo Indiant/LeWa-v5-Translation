@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BirdView</string>
+    <string name="mb">MB</string>
+    <string name="gb">GB</string>
+    <string name="nosim">Nincsenek forgalmi adatok</string>
+    <string name="nosim_set">Forgalmi adat nincs beállítva</string>
+    <string name="used">Felhasznált</string>
+    <string name="surplus">Megmaradt</string>
+    <string name="noalarm">Riasztás hozzáadása</string>
+    <string name="off">Ki</string>
+    <string name="on">Be</string>
+    <string name="alarm">Risztás</string>
+    <string name="power_on">Mentés</string>
+    <string name="power_surplus">Hátravan</string>
+    <string name="power_full">Töltés</string>
+    <string name="power_isfull">Feltöltött</string>
+    <string name="power_h">ó</string>
+    <string name="power_m">p</string>
+    <string name="torch">Zseblámpa</string>
+    <string name="safe_scanning">Vizsgálat...</string>
+    <string name="safe_scanning_error">Vizsgálati hiba, kérjük próbálja újra később</string>
+    <string name="safe_status_one">Egészséges</string>
+    <string name="safe_status_two">"napja nem történt ellenőrzés"</string>
+    <string name="safe_status_three">Nem történt korábban optimalizálás</string>
+    <string name="clean_toast_str0">Optimalizálva a legjobbra</string>
+    <string name="clean_toast_str1">"Sikeresen felszabadítva %1$d M memória
+Jelenleg elérhető memória %2$d M"</string>
+</resources>

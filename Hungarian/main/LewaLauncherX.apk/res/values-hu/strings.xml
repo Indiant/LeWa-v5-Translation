@@ -18,12 +18,12 @@
     <string name="power_h">ó</string>
     <string name="power_m">p</string>
     <string name="torch">Zseblámpa</string>
-    <string name="safe_scanning">Keresés...</string>
-    <string name="safe_scanning_error">Keresési hiba, kérjük próbálja újra később</string>
-    <string name="safe_status_one">Állapot</string>
+    <string name="safe_scanning">Vizsgálat...</string>
+    <string name="safe_scanning_error">Vizsgálati hiba, kérjük próbálja újra később</string>
+    <string name="safe_status_one">Egészséges</string>
     <string name="safe_status_two">napja nem történt ellenőrzés</string>
-    <string name="safe_status_three">Nem történt korábban ellenőrzés</string>
-    <string name="clean_toast_str0">Optimalizálás a legjobb</string>
+    <string name="safe_status_three">Nem történt korábban optimalizálás</string>
+    <string name="clean_toast_str0">Optimalizálva a legjobbra</string>
     <string name="clean_toast_str1">"Sikeresen felszabadítva %1$d M memória
 Jelenleg elérhető memória %2$d M"</string>
     <string name="config_workspaceDefaultTransitionEffect">Standard</string>

@@ -2532,7 +2532,7 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="led_settings_summary">Control the way breathing light works for better recognition of notifications or messages</string>
     <string name="notification_led_color_titel">Color of notification</string>
     <string name="incoming_call_led_color_titel">Color of incoming call</string>
-    <string name="mms_led_color_titel">Color of SMS</string>
+    <string name="mms_led_color_titel">SMS színe</string>
     <string name="notification_led_freq_title">Flash frequency of notification</string>
     <string name="incoming_call_led_freq_title">Flash frequency of incoming call</string>
     <string name="mms_led_freq_title">Flash frequency of SMS</string>
@@ -2551,6 +2551,13 @@ Minden felhasználó elfogadhatja a frissített alkalmazások engedélyeit az ö
     <string name="sensor_voice_summary">Ring will turn louder gradually during an incoming call</string>
     <string name="sensor_smart_call">Okos hívás</string>
     <string name="sensor_smart_call_summary">In the contact details or SMS, automatically call when near the ear</string>
+    <string name="sensor_shake_degree_gentle">Gyenge</string>
+    <string name="sensor_shake_degree_normal">Normál</string>
+    <string name="sensor_shake_degree_strength">Erős</string>
+    <string name="shake_degree_title">Rázás érzékenység</string>
+    <string name="shake_degree_summary">Állítsa be a telefon lengetésének érzékenységét</string>
+    <string name="sensor_shake_ok">Ok</string>
+    <string name="sensor_shake_cancel">Mégsem</string>
     <string name="activity_rounded_corner_title">Show screen rounded corner</string>
     <string name="further_settings">Extra beállítások</string>
 </resources>
