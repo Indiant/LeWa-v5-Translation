@@ -10,4 +10,14 @@
         <item>Péntek</item>
         <item>Szombat</item>
     </string-array>
+    <string-array name="dayofweek_offical">
+        <item></item>
+        <item>Vasárnap</item>
+        <item>Hétfő</item>
+        <item>Kedd</item>
+        <item>Szerda</item>
+        <item>Csütörtök</item>
+        <item>Péntek</item>
+        <item>Szombat</item>
+    </string-array>
 </resources>
