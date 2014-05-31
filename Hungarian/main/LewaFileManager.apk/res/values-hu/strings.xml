@@ -96,9 +96,9 @@
   <string name="target_name_is_not_allow_null">Cél neve nem lehet üres</string>
   <string name="rename_fail">A név érvénytelen karaktert tartalmaz.</string>
   <string name="sure">ok</string>
-  <string name="feedback_confirm">\"Wi-Fi nem elérhető. A küldeni kívánt adat nagyobb, mint 300 kilobájt, amiért az Ön mobilszolgáltatója adatforgalmi díjat számíthat fel.
+  <string name="feedback_confirm">"Wi-Fi nem elérhető. A küldeni kívánt adat nagyobb, mint 300 kilobájt, amiért az Ön mobilszolgáltatója adatforgalmi díjat számíthat fel.
  
-Folytatja a küldést?\"</string>
+Folytatja a küldést?"</string>
   <string name="reminder">Emlékeztető</string>
   <string name="directly_install">Közvetlen telepítés</string>
   <string name="appInstallStartTicker">Telepítés indítása...</string>
@@ -224,6 +224,7 @@ Folytatja a küldést?\"</string>
   <string name="operation_paste">Beillesztés</string>
   <string name="operation_pasting">Beillesztés...</string>
   <string name="operation_refresh">Frissítés</string>
+  <string name="operation_refresh_completed">Frissítés kész</string>
   <string name="operation_rename">Átnevezés</string>
   <string name="operation_rename_message">Új név megadása</string>
   <string name="operation_selectall">Összes kijelölése</string>
@@ -305,8 +306,9 @@ Folytatja a küldést?\"</string>
   <string name="sdcard">SD-kártya</string>
   <string name="built_in_sdcard">Belső tároló</string>
   <string name="external_sdcard">SD-kártya</string>
-  <string name="hint_findFiles">Fájlok keresése</string>
-  <string name="category_all_apk">Összes Apk</string>
+  <string name="hint_findFiles">Keresés minden fájl között</string>
+  <string name="file_search">Fájlok keresése</string>
+  <string name="category_all_apk">Összes apk</string>
   <string name="category_all_document">Összes Dokumentum</string>
   <string name="category_all_music">Összes Zene</string>
   <string name="category_all_picture">Összes Kép</string>
